@@ -11,7 +11,7 @@ jdata = open("data.txt", encoding='UTF-8').read()
 j = json.loads(jdata)
 bs = bson.encode(j)
 j = bson.decode(bs)
-
+print("len(bson):" + str(len(bs)))
 ks = []
 for i in range(keyNum):
 	h = hash(str(i + 1))
