@@ -278,7 +278,7 @@ int main(){
 		}
 		e = MyGetTickCount();
 		dt = e - s;
-		cout << fixed << "nlohmann parse times:" << repeatCount << " cost:" << dt
+		cout << fixed << "nlohmann dump times:" << repeatCount << " cost:" << dt
 			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
 
 		s = MyGetTickCount();
@@ -287,7 +287,7 @@ int main(){
 		}
 		e = MyGetTickCount();
 		dt = e - s;
-		cout << fixed << "jsoncons parse times:" << repeatCount << " cost:" << dt
+		cout << fixed << "jsoncons dump times:" << repeatCount << " cost:" << dt
 			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
 	}
 
