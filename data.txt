@@ -1,0 +1,8003 @@
+{
+    "_id" : 98146575,
+    "token" : "7d39dbabee564af4",
+    "account" : "ga20D7b1J0f51H",
+    "device" : "435a1296-6146-492b-8843-c13afc8e1496ga20D7b1J0f51H@1001",
+    "time" : "2022-01-10T21:48:36.323+08:00",
+    "create_time" : 1634781755,
+    "agent" : {
+        "version" : 697,
+        "serverID" : 1001,
+        "client" : {
+            "ip" : "112.17.236.246",
+            "port" : 31226
+        }
+    },
+    "nickname" : "费",
+    "gender" : 1,
+    "iconID" : 60005,
+    "world" : 1001,
+    "quests" : {
+        "1" : {
+            "status" : 0,
+            "updateTime" : "2021-10-21T10:02:35.563+08:00"
+        }
+    },
+    "monsters" : {
+        "1" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1026
+            }
+        },
+        "10" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 17,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1031
+            },
+            "star" : 1
+        },
+        "100" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1036
+            },
+            "star" : 1,
+            "talent" : {
+                "20088" : {
+                    "id" : 20088,
+                    "level" : 1,
+                    "monsterID" : 100
+                }
+            }
+        },
+        "101" : {
+            "evo" : 2,
+            "level" : 30,
+            "num" : 0,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1034
+            },
+            "star" : 5,
+            "talent" : {
+                "30360" : {
+                    "id" : 30360,
+                    "level" : 30,
+                    "monsterID" : 101
+                },
+                "30362" : {
+                    "id" : 30362,
+                    "level" : 31,
+                    "monsterID" : 101
+                },
+                "30544" : {
+                    "id" : 30544,
+                    "level" : 44,
+                    "monsterID" : 101
+                }
+            }
+        },
+        "102" : {
+            "level" : 1,
+            "num" : 6,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1028
+            }
+        },
+        "103" : {
+            "level" : 1,
+            "num" : 7,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1028
+            }
+        },
+        "105" : {
+            "level" : 1,
+            "num" : 3,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1029
+            }
+        },
+        "106" : {
+            "level" : 1,
+            "num" : 1,
+            "room" : {
+                "level" : 8,
+                "roomID" : 1029
+            }
+        },
+        "107" : {
+            "evo" : 1,
+            "level" : 10,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1029
+            },
+            "star" : 3
+        },
+        "108" : {
+            "level" : 1,
+            "num" : 17,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1012
+            }
+        },
+        "109" : {
+            "level" : 1,
+            "num" : 11,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1012
+            }
+        },
+        "11" : {
+            "level" : 1,
+            "num" : 21,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1030
+            }
+        },
+        "110" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1012
+            }
+        },
+        "111" : {
+            "level" : 1,
+            "num" : 19,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1010
+            }
+        },
+        "112" : {
+            "level" : 1,
+            "num" : 7,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1010
+            }
+        },
+        "113" : {
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1038
+            }
+        },
+        "114" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 14,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1038
+            },
+            "star" : 1
+        },
+        "115" : {
+            "level" : 1,
+            "num" : 39,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1008
+            }
+        },
+        "116" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 19,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1008
+            },
+            "star" : 1,
+            "talent" : {
+                "10138" : {
+                    "id" : 10138,
+                    "level" : 1,
+                    "monsterID" : 116
+                }
+            }
+        },
+        "117" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 1,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1008
+            },
+            "star" : 1,
+            "talent" : {
+                "20434" : {
+                    "id" : 20434,
+                    "level" : 1,
+                    "monsterID" : 117
+                }
+            }
+        },
+        "118" : {
+            "level" : 1,
+            "num" : 11,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1046
+            }
+        },
+        "119" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 7,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1046
+            },
+            "star" : 1
+        },
+        "12" : {
+            "level" : 1,
+            "num" : 46,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1041
+            }
+        },
+        "120" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1001
+            }
+        },
+        "121" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 10,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1006
+            },
+            "star" : 1
+        },
+        "122" : {
+            "level" : 1,
+            "num" : 11,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1026
+            }
+        },
+        "123" : {
+            "level" : 1,
+            "num" : 12,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1026
+            }
+        },
+        "124" : {
+            "level" : 1,
+            "num" : 4,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1031
+            },
+            "star" : 1
+        },
+        "125" : {
+            "level" : 1,
+            "num" : 12,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1003
+            }
+        },
+        "126" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1035
+            },
+            "star" : 2
+        },
+        "127" : {
+            "evo" : 2,
+            "level" : 30,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1007
+            },
+            "star" : 5,
+            "talent" : {
+                "30143" : {
+                    "id" : 30143,
+                    "level" : 43,
+                    "monsterID" : 127
+                },
+                "30144" : {
+                    "id" : 30144,
+                    "level" : 25,
+                    "monsterID" : 127
+                },
+                "30146" : {
+                    "id" : 30146,
+                    "level" : 30,
+                    "monsterID" : 127
+                }
+            }
+        },
+        "128" : {
+            "evo" : 0,
+            "level" : 2,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1025
+            },
+            "star" : 1
+        },
+        "129" : {
+            "evo" : 0,
+            "level" : 10,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1018
+            },
+            "star" : 3
+        },
+        "13" : {
+            "level" : 1,
+            "num" : 17,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1011
+            }
+        },
+        "130" : {
+            "level" : 1,
+            "num" : 3,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1015
+            }
+        },
+        "131" : {
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1019
+            }
+        },
+        "132" : {
+            "level" : 1,
+            "num" : 3,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1005
+            }
+        },
+        "133" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1013
+            }
+        },
+        "134" : {
+            "level" : 1,
+            "num" : 13,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1011
+            }
+        },
+        "135" : {
+            "level" : 2,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1011
+            },
+            "talent" : {
+                "30381" : {
+                    "id" : 30381,
+                    "level" : 1,
+                    "monsterID" : 135
+                }
+            }
+        },
+        "136" : {
+            "evo" : 2,
+            "level" : 30,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1036
+            },
+            "star" : 5,
+            "talent" : {
+                "30392" : {
+                    "id" : 30392,
+                    "level" : 30,
+                    "monsterID" : 136
+                },
+                "30393" : {
+                    "id" : 30393,
+                    "level" : 30,
+                    "monsterID" : 136
+                },
+                "30395" : {
+                    "id" : 30395,
+                    "level" : 34,
+                    "monsterID" : 136
+                }
+            }
+        },
+        "137" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1037
+            }
+        },
+        "138" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1017
+            }
+        },
+        "139" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1014
+            },
+            "star" : 1,
+            "talent" : {
+                "30427" : {
+                    "id" : 30427,
+                    "level" : 1,
+                    "monsterID" : 139
+                }
+            }
+        },
+        "14" : {
+            "level" : 1,
+            "num" : 16,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1019
+            }
+        },
+        "140" : {
+            "evo" : 1,
+            "level" : 10,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1038
+            },
+            "star" : 3
+        },
+        "142" : {
+            "level" : 1,
+            "num" : 1,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1010
+            },
+            "talent" : {
+                "30461" : {
+                    "id" : 30461,
+                    "level" : 1,
+                    "monsterID" : 142
+                }
+            }
+        },
+        "143" : {
+            "level" : 1,
+            "num" : 1,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1004
+            }
+        },
+        "144" : {
+            "evo" : 2,
+            "level" : 30,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1004
+            },
+            "star" : 4,
+            "talent" : {
+                "30475" : {
+                    "id" : 30475,
+                    "level" : 27,
+                    "monsterID" : 144
+                },
+                "30476" : {
+                    "id" : 30476,
+                    "level" : 26,
+                    "monsterID" : 144
+                },
+                "30536" : {
+                    "id" : 30536,
+                    "level" : 30,
+                    "monsterID" : 144
+                }
+            }
+        },
+        "145" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 41,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1008
+            },
+            "star" : 3
+        },
+        "146" : {
+            "evo" : 2,
+            "level" : 30,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1020
+            },
+            "star" : 2,
+            "talent" : {
+                "30494" : {
+                    "id" : 30494,
+                    "level" : 20,
+                    "monsterID" : 146
+                },
+                "30496" : {
+                    "id" : 30496,
+                    "level" : 21,
+                    "monsterID" : 146
+                },
+                "30497" : {
+                    "id" : 30497,
+                    "level" : 26,
+                    "monsterID" : 146
+                }
+            }
+        },
+        "148" : {
+            "evo" : 2,
+            "level" : 30,
+            "num" : 5,
+            "room" : {
+                "level" : 7,
+                "roomID" : 1046
+            },
+            "star" : 2,
+            "talent" : {
+                "30519" : {
+                    "id" : 30519,
+                    "level" : 20,
+                    "monsterID" : 148
+                },
+                "30521" : {
+                    "id" : 30521,
+                    "level" : 22,
+                    "monsterID" : 148
+                },
+                "30556" : {
+                    "id" : 30556,
+                    "level" : 20,
+                    "monsterID" : 148
+                }
+            }
+        },
+        "149" : {
+            "evo" : 2,
+            "level" : 25,
+            "num" : 16,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1021
+            },
+            "star" : 2,
+            "talent" : {
+                "30523" : {
+                    "id" : 30523,
+                    "level" : 20,
+                    "monsterID" : 149
+                }
+            }
+        },
+        "15" : {
+            "level" : 4,
+            "num" : 12,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1035
+            },
+            "talent" : {
+                "20263" : {
+                    "id" : 20263,
+                    "level" : 1,
+                    "monsterID" : 15
+                }
+            }
+        },
+        "16" : {
+            "level" : 2,
+            "num" : 8,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1002
+            }
+        },
+        "168" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1054
+            }
+        },
+        "169" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1054
+            }
+        },
+        "17" : {
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1003
+            }
+        },
+        "170" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1054
+            }
+        },
+        "178" : {
+            "evo" : 2,
+            "level" : 30,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1045
+            },
+            "star" : 5,
+            "talent" : {
+                "30662" : {
+                    "id" : 30662,
+                    "level" : 35,
+                    "monsterID" : 178
+                },
+                "30663" : {
+                    "id" : 30663,
+                    "level" : 30,
+                    "monsterID" : 178
+                },
+                "30664" : {
+                    "id" : 30664,
+                    "level" : 41,
+                    "monsterID" : 178
+                }
+            }
+        },
+        "18" : {
+            "level" : 1,
+            "num" : 19,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1007
+            }
+        },
+        "180" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1003
+            }
+        },
+        "19" : {
+            "level" : 2,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1044
+            }
+        },
+        "2" : {
+            "level" : 1,
+            "num" : 7,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1021
+            },
+            "star" : 1
+        },
+        "20" : {
+            "level" : 1,
+            "num" : 37,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1043
+            }
+        },
+        "21" : {
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1001
+            }
+        },
+        "22" : {
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1044
+            },
+            "star" : 1
+        },
+        "23" : {
+            "level" : 1,
+            "num" : 12,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1043
+            }
+        },
+        "24" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1044
+            }
+        },
+        "25" : {
+            "level" : 1,
+            "num" : 7,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1043
+            }
+        },
+        "26" : {
+            "level" : 1,
+            "num" : 14,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1031
+            }
+        },
+        "27" : {
+            "level" : 1,
+            "num" : 34,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1026
+            }
+        },
+        "28" : {
+            "level" : 1,
+            "num" : 1,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1021
+            }
+        },
+        "29" : {
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1005
+            }
+        },
+        "3" : {
+            "level" : 1,
+            "num" : 42,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1001
+            }
+        },
+        "30" : {
+            "level" : 1,
+            "num" : 8,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1004
+            }
+        },
+        "31" : {
+            "level" : 1,
+            "num" : 4,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1027
+            }
+        },
+        "32" : {
+            "level" : 1,
+            "num" : 38,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1020
+            }
+        },
+        "33" : {
+            "level" : 1,
+            "num" : 27,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1006
+            }
+        },
+        "34" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1034
+            }
+        },
+        "35" : {
+            "level" : 1,
+            "num" : 7,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1041
+            },
+            "talent" : {
+                "30296" : {
+                    "id" : 30296,
+                    "level" : 1,
+                    "monsterID" : 35
+                }
+            }
+        },
+        "36" : {
+            "level" : 1,
+            "num" : 33,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1011
+            }
+        },
+        "37" : {
+            "level" : 1,
+            "num" : 6,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1019
+            }
+        },
+        "38" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1002
+            },
+            "star" : 1
+        },
+        "39" : {
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1003
+            },
+            "star" : 2
+        },
+        "4" : {
+            "level" : 1,
+            "num" : 13,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1005
+            }
+        },
+        "40" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 12,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1030
+            },
+            "star" : 1
+        },
+        "41" : {
+            "level" : 1,
+            "num" : 16,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1035
+            }
+        },
+        "42" : {
+            "level" : 1,
+            "num" : 25,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1013
+            }
+        },
+        "43" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 8,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1013
+            },
+            "star" : 1
+        },
+        "44" : {
+            "level" : 1,
+            "num" : 17,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1025
+            }
+        },
+        "45" : {
+            "level" : 4,
+            "num" : 14,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1025
+            },
+            "star" : 1
+        },
+        "46" : {
+            "level" : 1,
+            "num" : 18,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1045
+            }
+        },
+        "47" : {
+            "level" : 1,
+            "num" : 11,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1045
+            },
+            "star" : 1
+        },
+        "48" : {
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1045
+            }
+        },
+        "49" : {
+            "level" : 1,
+            "num" : 32,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1017
+            }
+        },
+        "5" : {
+            "level" : 6,
+            "num" : 10,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1004
+            }
+        },
+        "50" : {
+            "level" : 1,
+            "num" : 7,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1017
+            }
+        },
+        "51" : {
+            "level" : 2,
+            "num" : 8,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1017
+            },
+            "star" : 1
+        },
+        "52" : {
+            "level" : 1,
+            "num" : 16,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1023
+            }
+        },
+        "53" : {
+            "level" : 1,
+            "num" : 10,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1023
+            }
+        },
+        "54" : {
+            "evo" : 1,
+            "level" : 10,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1023
+            },
+            "star" : 2
+        },
+        "55" : {
+            "level" : 1,
+            "num" : 10,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1048
+            }
+        },
+        "56" : {
+            "level" : 1,
+            "num" : 3,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1048
+            }
+        },
+        "57" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1048
+            }
+        },
+        "58" : {
+            "level" : 1,
+            "num" : 47,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1032
+            }
+        },
+        "59" : {
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1032
+            }
+        },
+        "6" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1027
+            },
+            "star" : 1,
+            "talent" : {
+                "30184" : {
+                    "id" : 30184,
+                    "level" : 1,
+                    "monsterID" : 6
+                }
+            }
+        },
+        "60" : {
+            "level" : 1,
+            "num" : 3,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1032
+            }
+        },
+        "61" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1032
+            },
+            "star" : 1
+        },
+        "62" : {
+            "level" : 1,
+            "num" : 15,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1047
+            }
+        },
+        "63" : {
+            "level" : 1,
+            "num" : 6,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1047
+            }
+        },
+        "64" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1047
+            }
+        },
+        "65" : {
+            "level" : 1,
+            "num" : 6,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1009
+            }
+        },
+        "66" : {
+            "level" : 1,
+            "num" : 9,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1009
+            }
+        },
+        "67" : {
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1009
+            }
+        },
+        "68" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1022
+            }
+        },
+        "69" : {
+            "level" : 1,
+            "num" : 9,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1022
+            }
+        },
+        "7" : {
+            "level" : 1,
+            "num" : 15,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1020
+            }
+        },
+        "70" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1022
+            }
+        },
+        "71" : {
+            "level" : 1,
+            "num" : 6,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1040
+            }
+        },
+        "72" : {
+            "level" : 1,
+            "num" : 1,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1040
+            }
+        },
+        "74" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1016
+            }
+        },
+        "75" : {
+            "level" : 1,
+            "num" : 10,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1016
+            }
+        },
+        "76" : {
+            "evo" : 2,
+            "level" : 28,
+            "num" : 5,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1016
+            },
+            "star" : 3
+        },
+        "77" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 32,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1002
+            },
+            "star" : 2,
+            "talent" : {
+                "30079" : {
+                    "id" : 30079,
+                    "level" : 1,
+                    "monsterID" : 77
+                }
+            }
+        },
+        "78" : {
+            "level" : 1,
+            "num" : 11,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1042
+            }
+        },
+        "79" : {
+            "level" : 1,
+            "num" : 9,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1042
+            }
+        },
+        "8" : {
+            "evo" : 2,
+            "level" : 30,
+            "num" : 0,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1006
+            },
+            "star" : 5,
+            "talent" : {
+                "30020" : {
+                    "id" : 30020,
+                    "level" : 30,
+                    "monsterID" : 8
+                },
+                "30022" : {
+                    "id" : 30022,
+                    "level" : 45,
+                    "monsterID" : 8
+                },
+                "30023" : {
+                    "id" : 30023,
+                    "level" : 60,
+                    "monsterID" : 8
+                }
+            }
+        },
+        "80" : {
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1042
+            }
+        },
+        "81" : {
+            "level" : 1,
+            "num" : 41,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1015
+            }
+        },
+        "82" : {
+            "level" : 1,
+            "num" : 19,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1015
+            }
+        },
+        "83" : {
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1015
+            },
+            "talent" : {
+                "20032" : {
+                    "id" : 20032,
+                    "level" : 1,
+                    "monsterID" : 83
+                },
+                "20033" : {
+                    "id" : 20033,
+                    "level" : 1,
+                    "monsterID" : 83
+                }
+            }
+        },
+        "84" : {
+            "level" : 2,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1007
+            },
+            "talent" : {
+                "20359" : {
+                    "id" : 20359,
+                    "level" : 1,
+                    "monsterID" : 84
+                }
+            }
+        },
+        "85" : {
+            "level" : 1,
+            "num" : 5,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1018
+            }
+        },
+        "86" : {
+            "level" : 1,
+            "num" : 11,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1018
+            }
+        },
+        "87" : {
+            "level" : 1,
+            "num" : 11,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1014
+            }
+        },
+        "88" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 12,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1014
+            }
+        },
+        "89" : {
+            "level" : 1,
+            "num" : 17,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1024
+            }
+        },
+        "9" : {
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 4,
+                "roomID" : 1034
+            }
+        },
+        "90" : {
+            "level" : 1,
+            "num" : 7,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1024
+            }
+        },
+        "92" : {
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1033
+            }
+        },
+        "93" : {
+            "level" : 1,
+            "num" : 4,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1033
+            }
+        },
+        "94" : {
+            "evo" : 0,
+            "level" : 1,
+            "num" : 0,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1033
+            },
+            "star" : 2,
+            "talent" : {
+                "30116" : {
+                    "id" : 30116,
+                    "level" : 1,
+                    "monsterID" : 94
+                }
+            }
+        },
+        "95" : {
+            "level" : 1,
+            "num" : 18,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1037
+            },
+            "star" : 1
+        },
+        "96" : {
+            "level" : 1,
+            "num" : 2,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1037
+            }
+        },
+        "97" : {
+            "level" : 1,
+            "num" : 6,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1039
+            }
+        },
+        "98" : {
+            "level" : 1,
+            "num" : 9,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1039
+            }
+        },
+        "99" : {
+            "level" : 1,
+            "num" : 11,
+            "room" : {
+                "level" : 1,
+                "roomID" : 1036
+            }
+        }
+    },
+    "petArmys" : {
+        "1" : [ 
+            1
+        ]
+    },
+    "level" : 30,
+    "zldj" : 1,
+    "activityMonsters" : [ 
+        8, 
+        101, 
+        136, 
+        146, 
+        144, 
+        148, 
+        127, 
+        178
+    ],
+    "LastActionValueChangeTime" : 1634781755,
+    "currentFashion" : 1003,
+    "c" : {
+        "stat" : {
+            "lastOperation" : "updateCharacter"
+        }
+    },
+    "fashions" : {
+        "1002" : 1,
+        "1003" : 1
+    },
+    "createTime" : "2021-10-21T10:02:35.566+08:00",
+    "activity" : {
+        "login" : {
+            "aID" : 1,
+            "count" : 81,
+            "days" : {
+                "1" : true,
+                "2" : true,
+                "3" : true,
+                "4" : true,
+                "5" : true,
+                "6" : true,
+                "7" : true
+            },
+            "yday" : 2022011009
+        },
+        "freegift" : {
+            "4002" : {
+                "t" : "1641776588",
+                "version" : "2021-9-12 06:00:00"
+            }
+        },
+        "consume" : {
+            "24" : {
+                "total" : 2480
+            }
+        },
+        "recharge" : {
+            "15" : {
+                "1" : {
+                    "time" : 2021102110,
+                    "token" : true
+                },
+                "total" : 68
+            },
+            "yday" : 2021111109
+        },
+        "sign" : {
+            "days" : 7,
+            "fetched" : {
+                "1" : 1,
+                "2" : 1,
+                "3" : 1,
+                "4" : 1,
+                "5" : 1,
+                "6" : 1,
+                "7" : 1
+            },
+            "t" : "1641444995",
+            "version" : "2021-12-31 06:00:00"
+        }
+    },
+    "currentTitleRoomFashionID" : 2149,
+    "currentTitleRoomID" : 1021,
+    "userCode" : "4Q109Mtm1BVmq0TZflDUYGmm9tg1H2ghPV/k04chlu4=",
+    "vipLevel" : 13,
+    "app_channel" : "816",
+    "taskList" : [ 
+        {
+            "achieveTaskPercent" : 17,
+            "createTime" : "1641812678",
+            "id" : 3,
+            "updateTaskTime" : 0
+        }, 
+        {
+            "achieveTaskPercent" : 0,
+            "createTime" : "1641822518",
+            "id" : 9,
+            "updateTaskTime" : 0
+        }
+    ],
+    "GetTaskOfTime" : "1641822518",
+    "getTaskTime" : 1,
+    "dailyBattleUsedPetIDs" : {
+        "1" : 1,
+        "10" : 10,
+        "100" : 100,
+        "101" : 101,
+        "102" : 102,
+        "103" : 103,
+        "105" : 105,
+        "106" : 106,
+        "107" : 107,
+        "108" : 108,
+        "109" : 109,
+        "11" : 11,
+        "110" : 110,
+        "111" : 111,
+        "112" : 112,
+        "113" : 113,
+        "114" : 114,
+        "115" : 115,
+        "116" : 116,
+        "117" : 117,
+        "118" : 118,
+        "119" : 119,
+        "12" : 12,
+        "120" : 120,
+        "121" : 121,
+        "122" : 122,
+        "123" : 123,
+        "124" : 124,
+        "125" : 125,
+        "126" : 126,
+        "127" : 127,
+        "128" : 128,
+        "129" : 129,
+        "13" : 13,
+        "130" : 130,
+        "131" : 131,
+        "132" : 132,
+        "133" : 133,
+        "134" : 134,
+        "135" : 135,
+        "136" : 136,
+        "137" : 137,
+        "138" : 138,
+        "139" : 139,
+        "14" : 14,
+        "140" : 140,
+        "142" : 142,
+        "143" : 143,
+        "144" : 144,
+        "145" : 145,
+        "146" : 146,
+        "148" : 148,
+        "149" : 149,
+        "15" : 15,
+        "16" : 16,
+        "168" : 168,
+        "169" : 169,
+        "17" : 17,
+        "170" : 170,
+        "178" : 178,
+        "18" : 18,
+        "180" : 180,
+        "19" : 19,
+        "2" : 2,
+        "20" : 20,
+        "21" : 21,
+        "22" : 22,
+        "23" : 23,
+        "24" : 24,
+        "25" : 25,
+        "26" : 26,
+        "27" : 27,
+        "28" : 28,
+        "29" : 29,
+        "3" : 3,
+        "30" : 30,
+        "31" : 31,
+        "32" : 32,
+        "33" : 33,
+        "34" : 34,
+        "35" : 35,
+        "36" : 36,
+        "37" : 37,
+        "38" : 38,
+        "39" : 39,
+        "4" : 4,
+        "40" : 40,
+        "41" : 41,
+        "42" : 42,
+        "43" : 43,
+        "44" : 44,
+        "45" : 45,
+        "46" : 46,
+        "47" : 47,
+        "48" : 48,
+        "49" : 49,
+        "5" : 5,
+        "50" : 50,
+        "51" : 51,
+        "52" : 52,
+        "53" : 53,
+        "54" : 54,
+        "55" : 55,
+        "56" : 56,
+        "57" : 57,
+        "58" : 58,
+        "59" : 59,
+        "6" : 6,
+        "60" : 60,
+        "61" : 61,
+        "62" : 62,
+        "63" : 63,
+        "64" : 64,
+        "65" : 65,
+        "66" : 66,
+        "67" : 67,
+        "68" : 68,
+        "69" : 69,
+        "7" : 7,
+        "70" : 70,
+        "71" : 71,
+        "72" : 72,
+        "74" : 74,
+        "75" : 75,
+        "76" : 76,
+        "77" : 77,
+        "78" : 78,
+        "79" : 79,
+        "80" : 80,
+        "81" : 81,
+        "82" : 82,
+        "83" : 83,
+        "84" : 84,
+        "85" : 85,
+        "86" : 86,
+        "87" : 87,
+        "88" : 88,
+        "89" : 89,
+        "9" : 9,
+        "90" : 90,
+        "92" : 92,
+        "93" : 93,
+        "94" : 94,
+        "95" : 95,
+        "96" : 96,
+        "97" : 97,
+        "98" : 98,
+        "99" : 99
+    },
+    "dailyBattleBossHP" : 2071,
+    "dailyBattleCount" : 20,
+    "dailyBattleLevel" : 137,
+    "dailyBattlePoint" : 10728,
+    "dailyBattleRefreshTime" : "1641776578",
+    "dailyBattleStageIndex" : 0,
+    "dailyBattleStageMaxIndex" : 0,
+    "fightPoint" : 203604,
+    "title" : 18,
+    "lastIntoInstanceTime" : "1641822522",
+    "buyIntoDailyStageTime" : 0,
+    "intoDailyStageTime" : 0,
+    "lastCyhallangeDailtStageTime" : "1641822523",
+    "lastIntoDailtStageTime" : "1641776886",
+    "TrainingData" : {
+        "1" : {
+            "URList" : [],
+            "URTimes" : 80,
+            "baodiCount" : 10,
+            "id" : 1,
+            "otherData" : [],
+            "singleFreeCount" : 0,
+            "singleFreeTimes" : "0",
+            "trainingTimes" : 1080,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "10" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 25,
+            "id" : 10,
+            "otherData" : [ 
+                {
+                    "ID" : 20,
+                    "rewardId" : 7016,
+                    "state" : 0
+                }
+            ],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1640393821",
+            "trainingTimes" : 28,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "11" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 12,
+            "id" : 11,
+            "otherData" : [],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1639046705",
+            "trainingTimes" : 12,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "12" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 0,
+            "id" : 12,
+            "otherData" : [],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1639046708",
+            "trainingTimes" : 6,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "13" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 7,
+            "id" : 13,
+            "otherData" : [],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1639653401",
+            "trainingTimes" : 7,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "14" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 6,
+            "id" : 14,
+            "otherData" : [ 
+                {
+                    "ID" : 20,
+                    "rewardId" : 7006,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 40,
+                    "rewardId" : 7007,
+                    "state" : 0
+                }
+            ],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1640832856",
+            "trainingTimes" : 64,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "15" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 10,
+            "id" : 15,
+            "otherData" : [ 
+                {
+                    "ID" : 20,
+                    "rewardId" : 7001,
+                    "state" : 1
+                }
+            ],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1641790568",
+            "trainingTimes" : 21,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "16" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 11,
+            "id" : 16,
+            "otherData" : [],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1641790572",
+            "trainingTimes" : 11,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "2" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 10,
+            "id" : 2,
+            "otherData" : [ 
+                {
+                    "ID" : 20,
+                    "rewardId" : 7001,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 40,
+                    "rewardId" : 7002,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 80,
+                    "rewardId" : 7003,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 140,
+                    "rewardId" : 7004,
+                    "state" : 0
+                }
+            ],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1635900060",
+            "trainingTimes" : 164,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "3" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 20,
+            "id" : 3,
+            "otherData" : [ 
+                {
+                    "ID" : 20,
+                    "rewardId" : 7006,
+                    "state" : 0
+                }
+            ],
+            "singleFreeCount" : 0,
+            "singleFreeTimes" : "0",
+            "trainingTimes" : 20,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "4" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 7,
+            "id" : 4,
+            "otherData" : [],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1636509358",
+            "trainingTimes" : 7,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "5" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 6,
+            "id" : 5,
+            "otherData" : [ 
+                {
+                    "ID" : 20,
+                    "rewardId" : 7016,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 40,
+                    "rewardId" : 7017,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 80,
+                    "rewardId" : 7018,
+                    "state" : 0
+                }
+            ],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1637191133",
+            "trainingTimes" : 88,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "6" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 7,
+            "id" : 6,
+            "otherData" : [],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1636585288",
+            "trainingTimes" : 7,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "7" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 36,
+            "id" : 7,
+            "otherData" : [ 
+                {
+                    "ID" : 20,
+                    "rewardId" : 7011,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 40,
+                    "rewardId" : 7012,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 80,
+                    "rewardId" : 7013,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 140,
+                    "rewardId" : 7014,
+                    "state" : 0
+                }, 
+                {
+                    "ID" : 200,
+                    "rewardId" : 7015,
+                    "state" : 0
+                }
+            ],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1637801467",
+            "trainingTimes" : 207,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "8" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 6,
+            "id" : 8,
+            "otherData" : [],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1637801472",
+            "trainingTimes" : 17,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "9" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "baodiCount" : 12,
+            "id" : 9,
+            "otherData" : [],
+            "singleFreeCount" : 1,
+            "singleFreeTimes" : "1639046698",
+            "trainingTimes" : 12,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        },
+        "9001" : {
+            "URList" : [],
+            "URTimes" : 0,
+            "id" : 9001,
+            "otherData" : [],
+            "singleFreeCount" : 0,
+            "singleFreeTimes" : "0",
+            "trainingTimes" : 10,
+            "useDiscountTimes" : 0,
+            "useTenDiscountTimes" : 0
+        }
+    },
+    "practiceTime" : 2,
+    "catchedAwards" : {
+        "list" : [ 
+            1, 
+            2, 
+            3, 
+            4, 
+            5, 
+            6, 
+            7, 
+            8, 
+            9, 
+            10, 
+            11, 
+            12, 
+            13, 
+            14, 
+            15, 
+            16, 
+            17, 
+            18, 
+            19, 
+            20, 
+            21, 
+            22, 
+            23, 
+            24, 
+            25, 
+            26, 
+            27, 
+            28, 
+            29, 
+            30
+        ]
+    },
+    "catchedPassAwards" : {
+        "list" : [ 
+            1, 
+            2, 
+            3, 
+            4, 
+            5, 
+            6, 
+            7, 
+            8, 
+            9, 
+            10, 
+            11, 
+            12, 
+            13, 
+            14, 
+            15, 
+            16, 
+            17, 
+            18, 
+            19, 
+            20, 
+            21, 
+            22, 
+            23, 
+            24, 
+            25, 
+            26, 
+            27, 
+            28, 
+            29, 
+            30
+        ]
+    },
+    "passQuests" : {},
+    "passPoint" : 1062,
+    "passcardDate" : "1634940000",
+    "passcardUpdateTime" : "1641776583",
+    "cqCoin" : 0,
+    "cqDate" : "1640296800",
+    "cqLevelID" : 21,
+    "cqLostNum" : 0,
+    "cqResetID" : 3,
+    "newActiveQuests" : {
+        "1" : 5,
+        "2" : 8,
+        "3" : 5,
+        "4" : 10,
+        "5" : 2,
+        "6" : 2,
+        "7" : 5,
+        "8" : 10
+    },
+    "newActiveCompleteQuests" : {
+        "1" : 1,
+        "2" : 1,
+        "3" : 1,
+        "4" : 1,
+        "5" : 1,
+        "6" : 1
+    },
+    "newActiveQuestUpdateTime" : "1641776584",
+    "wholeList" : [ 
+        {
+            "id" : 1,
+            "token" : 1,
+            "version" : 11
+        }, 
+        {
+            "id" : 2,
+            "token" : 1,
+            "version" : 11
+        }, 
+        {
+            "id" : 3,
+            "token" : 1,
+            "version" : 11
+        }
+    ],
+    "scriptshopData" : [ 
+        {
+            "id" : 29,
+            "num" : 100
+        }, 
+        {
+            "id" : 5,
+            "num" : 1
+        }, 
+        {
+            "id" : 4,
+            "num" : 9999
+        }, 
+        {
+            "id" : 2,
+            "num" : 6491
+        }, 
+        {
+            "id" : 27,
+            "num" : 32
+        }
+    ],
+    "copyData" : [ 
+        {
+            "id" : 1
+        }, 
+        {
+            "id" : 2
+        }, 
+        {
+            "id" : 3
+        }, 
+        {
+            "id" : 4
+        }, 
+        {
+            "id" : 5
+        }, 
+        {
+            "id" : 6
+        }, 
+        {
+            "id" : 7
+        }, 
+        {
+            "id" : 8
+        }, 
+        {
+            "id" : 9
+        }, 
+        {
+            "id" : 10
+        }, 
+        {
+            "id" : 11
+        }
+    ],
+    "ScriptUpdateTime" : "1641776584",
+    "bigNewInstance" : 12,
+    "buyScripttimes" : 0,
+    "changeScripttimes" : 20,
+    "scriptCoin" : 0,
+    "scriptMonsterCoin" : 90,
+    "scriptVerson" : "1640296800",
+    "simallNewInstance" : 226,
+    "lastIntoHardMapTime" : "1641790563",
+    "todayBuyMapTimes" : 0,
+    "todayChallengHardMapTimes" : 0,
+    "actBossTimeVersion" : "",
+    "currentAdvMapID" : 0,
+    "currentAdvMapRouteID" : 0,
+    "drawList" : {
+        "1002" : {
+            "createTime" : "1634781774",
+            "id" : 1002
+        },
+        "1001" : {
+            "createTime" : "1634781832",
+            "id" : 1001
+        },
+        "1003" : {
+            "createTime" : "1634781974",
+            "id" : 1003
+        },
+        "1004" : {
+            "createTime" : "1634782008",
+            "id" : 1004
+        },
+        "1011" : {
+            "createTime" : "1634782085",
+            "id" : 1011
+        },
+        "1012" : {
+            "createTime" : "1634783599",
+            "id" : 1012
+        },
+        "1013" : {
+            "createTime" : "1634786040",
+            "id" : 1013
+        },
+        "1021" : {
+            "createTime" : "1634786347",
+            "id" : 1021
+        },
+        "1031" : {
+            "createTime" : "1634788482",
+            "id" : 1031
+        },
+        "1041" : {
+            "createTime" : "1634796809",
+            "id" : 1041
+        },
+        "1051" : {
+            "createTime" : "1634798179",
+            "id" : 1051
+        },
+        "1141" : {
+            "createTime" : "1634802561",
+            "id" : 1141
+        },
+        "1121" : {
+            "createTime" : "1634802913",
+            "id" : 1121
+        },
+        "1131" : {
+            "createTime" : "1634807711",
+            "id" : 1131
+        },
+        "1151" : {
+            "createTime" : "1634821009",
+            "id" : 1151
+        },
+        "1161" : {
+            "createTime" : "1634821400",
+            "id" : 1161
+        },
+        "1171" : {
+            "createTime" : "1634826584",
+            "id" : 1171
+        },
+        "1181" : {
+            "createTime" : "1634831744",
+            "id" : 1181
+        },
+        "1061" : {
+            "createTime" : "1634874442",
+            "id" : 1061
+        },
+        "1071" : {
+            "createTime" : "1634883579",
+            "id" : 1071
+        },
+        "1081" : {
+            "createTime" : "1634883587",
+            "id" : 1081
+        },
+        "1191" : {
+            "createTime" : "1634923149",
+            "id" : 1191
+        },
+        "1201" : {
+            "createTime" : "1634924520",
+            "id" : 1201
+        },
+        "1211" : {
+            "createTime" : "1634925020",
+            "id" : 1211
+        },
+        "1091" : {
+            "createTime" : "1634980409",
+            "id" : 1091
+        },
+        "1101" : {
+            "createTime" : "1634980418",
+            "id" : 1101
+        },
+        "1111" : {
+            "createTime" : "1634980425",
+            "id" : 1111
+        },
+        "1221" : {
+            "createTime" : "1635042348",
+            "id" : 1221
+        },
+        "1231" : {
+            "createTime" : "1635043124",
+            "id" : 1231
+        },
+        "1241" : {
+            "createTime" : "1635078728",
+            "id" : 1241
+        },
+        "1251" : {
+            "createTime" : "1635183155",
+            "id" : 1251
+        },
+        "1261" : {
+            "createTime" : "1635185836",
+            "id" : 1261
+        },
+        "1271" : {
+            "createTime" : "1635758464",
+            "id" : 1271
+        },
+        "1281" : {
+            "createTime" : "1638174678",
+            "id" : 1281
+        },
+        "1291" : {
+            "createTime" : "1638175083",
+            "id" : 1291
+        }
+    },
+    "m_cash" : 11560,
+    "mapRoute" : {
+        "10001" : {
+            "10001" : 10001
+        },
+        "10002" : {
+            "10002" : 10002
+        },
+        "10003" : {
+            "10003" : 10003
+        },
+        "10004" : {
+            "10004" : 10004
+        },
+        "1" : {
+            "1" : 1
+        },
+        "2" : {
+            "2" : 2,
+            "3" : 3,
+            "4" : 4
+        },
+        "3" : {
+            "5" : 5
+        },
+        "4" : {
+            "6" : 6
+        },
+        "5" : {
+            "7" : 7,
+            "8" : 8,
+            "9" : 9
+        },
+        "6" : {
+            "10" : 10
+        },
+        "7" : {
+            "11" : 11
+        },
+        "8" : {
+            "12" : 12,
+            "13" : 13,
+            "14" : 14
+        },
+        "9" : {
+            "15" : 15
+        },
+        "10" : {
+            "16" : 16
+        },
+        "11" : {
+            "17" : 17,
+            "18" : 18,
+            "19" : 19
+        },
+        "12" : {
+            "20" : 20
+        },
+        "13" : {
+            "21" : 21
+        },
+        "14" : {
+            "22" : 22,
+            "23" : 23,
+            "24" : 24
+        },
+        "15" : {
+            "25" : 25
+        },
+        "16" : {
+            "26" : 26,
+            "27" : 27,
+            "28" : 28
+        },
+        "17" : {
+            "29" : 29
+        },
+        "18" : {
+            "30" : 30
+        },
+        "19" : {
+            "31" : 31,
+            "32" : 32,
+            "33" : 33
+        },
+        "20" : {
+            "34" : 34
+        },
+        "21" : {
+            "35" : 35
+        },
+        "22" : {
+            "36" : 36,
+            "37" : 37,
+            "38" : 38
+        },
+        "23" : {
+            "39" : 39
+        },
+        "24" : {
+            "40" : 40
+        },
+        "25" : {
+            "41" : 41,
+            "42" : 42,
+            "43" : 43
+        },
+        "26" : {
+            "44" : 44
+        },
+        "27" : {
+            "45" : 45
+        },
+        "28" : {
+            "46" : 46,
+            "47" : 47,
+            "48" : 48
+        },
+        "29" : {
+            "49" : 49
+        },
+        "30" : {
+            "50" : 50,
+            "51" : 51,
+            "52" : 52
+        },
+        "31" : {
+            "53" : 53
+        },
+        "32" : {
+            "54" : 54
+        },
+        "33" : {
+            "55" : 55,
+            "56" : 56,
+            "57" : 57
+        },
+        "34" : {
+            "58" : 58
+        },
+        "35" : {
+            "59" : 59
+        },
+        "36" : {
+            "60" : 60,
+            "61" : 61,
+            "62" : 62
+        },
+        "37" : {
+            "63" : 63
+        },
+        "38" : {
+            "64" : 64
+        },
+        "39" : {
+            "65" : 65,
+            "66" : 66,
+            "67" : 67
+        },
+        "40" : {
+            "68" : 68
+        },
+        "41" : {
+            "69" : 69
+        },
+        "42" : {
+            "70" : 70,
+            "71" : 71,
+            "72" : 72
+        },
+        "43" : {
+            "73" : 73
+        },
+        "44" : {
+            "74" : 74,
+            "75" : 75,
+            "76" : 76
+        },
+        "45" : {
+            "77" : 77
+        },
+        "46" : {
+            "78" : 78
+        },
+        "47" : {
+            "79" : 79,
+            "80" : 80,
+            "81" : 81
+        },
+        "48" : {
+            "82" : 82
+        },
+        "49" : {
+            "83" : 83
+        },
+        "50" : {
+            "84" : 84,
+            "85" : 85,
+            "86" : 86
+        },
+        "51" : {
+            "87" : 87
+        },
+        "52" : {
+            "88" : 88
+        },
+        "53" : {
+            "89" : 89,
+            "90" : 90,
+            "91" : 91
+        },
+        "54" : {
+            "92" : 92
+        },
+        "55" : {
+            "93" : 93
+        },
+        "56" : {
+            "94" : 94,
+            "95" : 95,
+            "96" : 96
+        },
+        "57" : {
+            "97" : 97
+        },
+        "58" : {
+            "100" : 100,
+            "98" : 98,
+            "99" : 99
+        },
+        "59" : {
+            "101" : 101
+        },
+        "60" : {
+            "102" : 102
+        },
+        "61" : {
+            "103" : 103,
+            "104" : 104,
+            "105" : 105
+        },
+        "62" : {
+            "106" : 106
+        },
+        "63" : {
+            "107" : 107
+        },
+        "64" : {
+            "108" : 108,
+            "109" : 109,
+            "110" : 110
+        },
+        "65" : {
+            "111" : 111
+        },
+        "66" : {
+            "112" : 112
+        },
+        "67" : {
+            "113" : 113,
+            "114" : 114,
+            "115" : 115
+        },
+        "68" : {
+            "116" : 116
+        },
+        "69" : {
+            "117" : 117
+        },
+        "70" : {
+            "118" : 118,
+            "119" : 119,
+            "120" : 120
+        },
+        "71" : {
+            "121" : 121
+        },
+        "72" : {
+            "122" : 122,
+            "123" : 123,
+            "124" : 124
+        },
+        "73" : {
+            "125" : 125
+        },
+        "74" : {
+            "126" : 126
+        },
+        "75" : {
+            "127" : 127,
+            "128" : 128,
+            "129" : 129
+        },
+        "76" : {
+            "130" : 130
+        },
+        "77" : {
+            "131" : 131
+        },
+        "78" : {
+            "132" : 132,
+            "133" : 133,
+            "134" : 134
+        },
+        "79" : {
+            "135" : 135
+        },
+        "80" : {
+            "136" : 136
+        },
+        "81" : {
+            "137" : 137,
+            "138" : 138,
+            "139" : 139
+        },
+        "82" : {
+            "140" : 140
+        },
+        "83" : {
+            "141" : 141
+        },
+        "84" : {
+            "142" : 142,
+            "143" : 143,
+            "144" : 144
+        },
+        "85" : {
+            "145" : 145
+        },
+        "86" : {
+            "146" : 146,
+            "147" : 147,
+            "148" : 148
+        },
+        "87" : {
+            "149" : 149
+        },
+        "88" : {
+            "150" : 150
+        },
+        "89" : {
+            "151" : 151,
+            "152" : 152,
+            "153" : 153
+        },
+        "90" : {
+            "154" : 154
+        },
+        "91" : {
+            "155" : 155
+        },
+        "92" : {
+            "156" : 156,
+            "157" : 157,
+            "158" : 158
+        },
+        "93" : {
+            "159" : 159
+        },
+        "94" : {
+            "160" : 160
+        },
+        "95" : {
+            "161" : 161,
+            "162" : 162,
+            "163" : 163
+        },
+        "96" : {
+            "164" : 164
+        },
+        "97" : {
+            "165" : 165
+        },
+        "98" : {
+            "166" : 166,
+            "167" : 167,
+            "168" : 168
+        },
+        "99" : {
+            "169" : 169
+        },
+        "100" : {
+            "170" : 170,
+            "171" : 171,
+            "172" : 172
+        },
+        "101" : {
+            "173" : 173
+        },
+        "102" : {
+            "174" : 174
+        },
+        "103" : {
+            "175" : 175,
+            "176" : 176,
+            "177" : 177
+        },
+        "104" : {
+            "178" : 178
+        },
+        "105" : {
+            "179" : 179
+        },
+        "106" : {
+            "180" : 180,
+            "181" : 181,
+            "182" : 182
+        },
+        "107" : {
+            "183" : 183
+        },
+        "108" : {
+            "184" : 184
+        },
+        "109" : {
+            "185" : 185,
+            "186" : 186,
+            "187" : 187
+        },
+        "110" : {
+            "188" : 188
+        },
+        "111" : {
+            "189" : 189
+        },
+        "112" : {
+            "190" : 190,
+            "191" : 191,
+            "192" : 192
+        },
+        "113" : {
+            "193" : 193
+        },
+        "114" : {
+            "194" : 194,
+            "195" : 195,
+            "196" : 196
+        },
+        "115" : {
+            "197" : 197
+        },
+        "116" : {
+            "198" : 198
+        },
+        "117" : {
+            "199" : 199,
+            "200" : 200,
+            "201" : 201
+        },
+        "118" : {
+            "202" : 202
+        },
+        "119" : {
+            "203" : 203
+        },
+        "120" : {
+            "204" : 204,
+            "205" : 205,
+            "206" : 206
+        },
+        "121" : {
+            "207" : 207
+        },
+        "122" : {
+            "208" : 208
+        },
+        "123" : {
+            "209" : 209,
+            "210" : 210,
+            "211" : 211
+        },
+        "124" : {
+            "212" : 212
+        },
+        "125" : {
+            "213" : 213
+        },
+        "126" : {
+            "214" : 214,
+            "215" : 215,
+            "216" : 216
+        },
+        "127" : {
+            "217" : 217
+        },
+        "128" : {
+            "218" : 218,
+            "219" : 219,
+            "220" : 220
+        },
+        "129" : {
+            "221" : 221
+        },
+        "130" : {
+            "222" : 222
+        },
+        "131" : {
+            "223" : 223,
+            "224" : 224,
+            "225" : 225
+        },
+        "132" : {
+            "226" : 226
+        },
+        "133" : {
+            "227" : 227
+        },
+        "134" : {
+            "228" : 228,
+            "229" : 229,
+            "230" : 230
+        },
+        "135" : {
+            "231" : 231
+        },
+        "136" : {
+            "232" : 232
+        },
+        "137" : {
+            "233" : 233,
+            "234" : 234,
+            "235" : 235
+        },
+        "138" : {
+            "236" : 236
+        },
+        "139" : {
+            "237" : 237
+        },
+        "140" : {
+            "238" : 238,
+            "239" : 239,
+            "240" : 240
+        },
+        "141" : {
+            "241" : 241
+        },
+        "142" : {
+            "242" : 242,
+            "243" : 243,
+            "244" : 244
+        },
+        "143" : {
+            "245" : 245
+        },
+        "144" : {
+            "246" : 246
+        },
+        "145" : {
+            "247" : 247,
+            "248" : 248,
+            "249" : 249
+        },
+        "146" : {
+            "250" : 250
+        },
+        "147" : {
+            "251" : 251
+        },
+        "148" : {
+            "252" : 252,
+            "253" : 253,
+            "254" : 254
+        },
+        "149" : {
+            "255" : 255
+        },
+        "150" : {
+            "256" : 256
+        },
+        "151" : {
+            "257" : 257,
+            "258" : 258,
+            "259" : 259
+        },
+        "152" : {
+            "260" : 260
+        },
+        "153" : {
+            "261" : 261
+        },
+        "154" : {
+            "262" : 262,
+            "263" : 263,
+            "264" : 264
+        },
+        "155" : {
+            "265" : 265
+        },
+        "156" : {
+            "266" : 266,
+            "267" : 267,
+            "268" : 268
+        },
+        "157" : {
+            "269" : 269
+        },
+        "158" : {
+            "270" : 270
+        },
+        "159" : {
+            "271" : 271,
+            "272" : 272,
+            "273" : 273
+        },
+        "160" : {
+            "274" : 274
+        },
+        "161" : {
+            "275" : 275
+        },
+        "162" : {
+            "276" : 276,
+            "277" : 277,
+            "278" : 278
+        },
+        "163" : {
+            "279" : 279
+        },
+        "164" : {
+            "280" : 280
+        },
+        "165" : {
+            "281" : 281,
+            "282" : 282,
+            "283" : 283
+        },
+        "166" : {
+            "284" : 284
+        },
+        "167" : {
+            "285" : 285
+        },
+        "168" : {
+            "286" : 286,
+            "287" : 287,
+            "288" : 288
+        },
+        "169" : {
+            "289" : 289
+        },
+        "170" : {
+            "290" : 290,
+            "291" : 291,
+            "292" : 292
+        },
+        "171" : {
+            "293" : 293
+        },
+        "172" : {
+            "294" : 294
+        },
+        "173" : {
+            "295" : 295,
+            "296" : 296,
+            "297" : 297
+        },
+        "174" : {
+            "298" : 298
+        },
+        "175" : {
+            "299" : 299
+        },
+        "176" : {
+            "300" : 300,
+            "301" : 301,
+            "302" : 302
+        },
+        "177" : {
+            "303" : 303
+        },
+        "178" : {
+            "304" : 304
+        },
+        "179" : {
+            "305" : 305,
+            "306" : 306,
+            "307" : 307
+        },
+        "180" : {
+            "308" : 308
+        },
+        "181" : {
+            "309" : 309
+        },
+        "182" : {
+            "310" : 310,
+            "311" : 311,
+            "312" : 312
+        }
+    },
+    "exp" : 0,
+    "g_cash" : 191272361,
+    "loginGcash" : 347602161,
+    "zyhq" : 347602161,
+    "zyhq1" : 260459,
+    "items" : {
+        "2001" : {
+            "itemID" : 2001,
+            "num" : 1055
+        },
+        "6001" : {
+            "itemID" : 6001,
+            "num" : 81
+        },
+        "3001" : {
+            "itemID" : 3001,
+            "num" : 55
+        },
+        "3013" : {
+            "itemID" : 3013,
+            "num" : 89
+        },
+        "3017" : {
+            "itemID" : 3017,
+            "num" : 116
+        },
+        "3029" : {
+            "itemID" : 3029,
+            "num" : 94
+        },
+        "3033" : {
+            "itemID" : 3033,
+            "num" : 60
+        },
+        "3041" : {
+            "itemID" : 3041,
+            "num" : 65
+        },
+        "3053" : {
+            "itemID" : 3053,
+            "num" : 37
+        },
+        "3057" : {
+            "itemID" : 3057,
+            "num" : 88
+        },
+        "3084" : {
+            "itemID" : 3084,
+            "num" : 91
+        },
+        "3088" : {
+            "itemID" : 3088,
+            "num" : 112
+        },
+        "14" : {
+            "itemID" : 14,
+            "num" : 144
+        },
+        "3049" : {
+            "itemID" : 3049,
+            "num" : 75
+        },
+        "15" : {
+            "itemID" : 15,
+            "num" : 211
+        },
+        "3050" : {
+            "itemID" : 3050,
+            "num" : 4
+        },
+        "174" : {
+            "itemID" : 174,
+            "num" : 216
+        },
+        "3019" : {
+            "itemID" : 3019,
+            "num" : 25
+        },
+        "3018" : {
+            "itemID" : 3018,
+            "num" : 5
+        },
+        "2011" : {
+            "itemID" : 2011,
+            "num" : 71
+        },
+        "3005" : {
+            "itemID" : 3005,
+            "num" : 20
+        },
+        "60005" : {
+            "itemID" : 60005,
+            "num" : 5
+        },
+        "75004" : {
+            "itemID" : 75004,
+            "num" : 1
+        },
+        "3027" : {
+            "itemID" : 3027,
+            "num" : 5
+        },
+        "3031" : {
+            "itemID" : 3031,
+            "num" : 27
+        },
+        "2000" : {
+            "itemID" : 2000,
+            "num" : 3138
+        },
+        "2016" : {
+            "itemID" : 2016,
+            "num" : 88
+        },
+        "2014" : {
+            "itemID" : 2014,
+            "num" : 113
+        },
+        "86" : {
+            "itemID" : 86,
+            "num" : 650
+        },
+        "30005" : {
+            "itemID" : 30005,
+            "num" : 1
+        },
+        "3007" : {
+            "itemID" : 3007,
+            "num" : 6
+        },
+        "3051" : {
+            "itemID" : 3051,
+            "num" : 20
+        },
+        "3037" : {
+            "itemID" : 3037,
+            "num" : 68
+        },
+        "3079" : {
+            "itemID" : 3079,
+            "num" : 19
+        },
+        "3030" : {
+            "itemID" : 3030,
+            "num" : 2
+        },
+        "3077" : {
+            "itemID" : 3077,
+            "num" : 52
+        },
+        "208" : {
+            "itemID" : 208,
+            "num" : 1
+        },
+        "30414" : {
+            "itemID" : 30414,
+            "num" : 1
+        },
+        "30448" : {
+            "itemID" : 30448,
+            "num" : 1
+        },
+        "30188" : {
+            "itemID" : 30188,
+            "num" : 1
+        },
+        "3061" : {
+            "itemID" : 3061,
+            "num" : 52
+        },
+        "2013" : {
+            "itemID" : 2013,
+            "num" : 1110
+        },
+        "2015" : {
+            "itemID" : 2015,
+            "num" : 2390
+        },
+        "2020" : {
+            "itemID" : 2020,
+            "num" : 10
+        },
+        "2021" : {
+            "itemID" : 2021,
+            "num" : 8
+        },
+        "2022" : {
+            "itemID" : 2022,
+            "num" : 2
+        },
+        "2023" : {
+            "itemID" : 2023,
+            "num" : 2
+        },
+        "9" : {
+            "itemID" : 9,
+            "num" : 21
+        },
+        "26" : {
+            "itemID" : 26,
+            "num" : 8
+        },
+        "137" : {
+            "itemID" : 137,
+            "num" : 1
+        },
+        "27" : {
+            "itemID" : 27,
+            "num" : 162
+        },
+        "3078" : {
+            "itemID" : 3078,
+            "num" : 3
+        },
+        "60004" : {
+            "itemID" : 60004,
+            "num" : 6
+        },
+        "3040" : {
+            "itemID" : 3040,
+            "num" : 5
+        },
+        "3003" : {
+            "itemID" : 3003,
+            "num" : 4
+        },
+        "3091" : {
+            "itemID" : 3091,
+            "num" : 5
+        },
+        "3044" : {
+            "itemID" : 3044,
+            "num" : 4
+        },
+        "30001" : {
+            "itemID" : 30001,
+            "num" : 1
+        },
+        "3032" : {
+            "itemID" : 3032,
+            "num" : 3
+        },
+        "3024" : {
+            "itemID" : 3024,
+            "num" : 3
+        },
+        "3052" : {
+            "itemID" : 3052,
+            "num" : 4
+        },
+        "3035" : {
+            "itemID" : 3035,
+            "num" : 6
+        },
+        "3028" : {
+            "itemID" : 3028,
+            "num" : 3
+        },
+        "3036" : {
+            "itemID" : 3036,
+            "num" : 2
+        },
+        "3060" : {
+            "itemID" : 3060,
+            "num" : 4
+        },
+        "30275" : {
+            "itemID" : 30275,
+            "num" : 1
+        },
+        "30022" : {
+            "itemID" : 30022,
+            "num" : 1
+        },
+        "30258" : {
+            "itemID" : 30258,
+            "num" : 1
+        },
+        "3004" : {
+            "itemID" : 3004,
+            "num" : 3
+        },
+        "3048" : {
+            "itemID" : 3048,
+            "num" : 5
+        },
+        "120" : {
+            "itemID" : 120,
+            "num" : 18
+        },
+        "3045" : {
+            "itemID" : 3045,
+            "num" : 52
+        },
+        "3080" : {
+            "itemID" : 3080,
+            "num" : 5
+        },
+        "4" : {
+            "itemID" : 4,
+            "num" : 97
+        },
+        "3076" : {
+            "itemID" : 3076,
+            "num" : 2
+        },
+        "6002" : {
+            "itemID" : 6002,
+            "num" : 5
+        },
+        "3043" : {
+            "itemID" : 3043,
+            "num" : 7
+        },
+        "3025" : {
+            "itemID" : 3025,
+            "num" : 21
+        },
+        "3016" : {
+            "itemID" : 3016,
+            "num" : 3
+        },
+        "3087" : {
+            "itemID" : 3087,
+            "num" : 7
+        },
+        "3012" : {
+            "itemID" : 3012,
+            "num" : 3
+        },
+        "3056" : {
+            "itemID" : 3056,
+            "num" : 3
+        },
+        "70002" : {
+            "itemID" : 70002,
+            "num" : 1
+        },
+        "21" : {
+            "itemID" : 21,
+            "num" : 16
+        },
+        "3020" : {
+            "itemID" : 3020,
+            "num" : 2
+        },
+        "3008" : {
+            "itemID" : 3008,
+            "num" : 4
+        },
+        "3064" : {
+            "itemID" : 3064,
+            "num" : 2
+        },
+        "28" : {
+            "itemID" : 28,
+            "num" : 48
+        },
+        "3086" : {
+            "itemID" : 3086,
+            "num" : 1
+        },
+        "3021" : {
+            "itemID" : 3021,
+            "num" : 32
+        },
+        "3065" : {
+            "itemID" : 3065,
+            "num" : 13
+        },
+        "30363" : {
+            "itemID" : 30363,
+            "num" : 1
+        },
+        "30019" : {
+            "itemID" : 30019,
+            "num" : 1
+        },
+        "30387" : {
+            "itemID" : 30387,
+            "num" : 1
+        },
+        "30386" : {
+            "itemID" : 30386,
+            "num" : 1
+        },
+        "30088" : {
+            "itemID" : 30088,
+            "num" : 1
+        },
+        "60003" : {
+            "itemID" : 60003,
+            "num" : 1
+        },
+        "30520" : {
+            "itemID" : 30520,
+            "num" : 1
+        },
+        "6" : {
+            "itemID" : 6,
+            "num" : 700
+        },
+        "3069" : {
+            "itemID" : 3069,
+            "num" : 3
+        },
+        "3034" : {
+            "itemID" : 3034,
+            "num" : 1
+        },
+        "3042" : {
+            "itemID" : 3042,
+            "num" : 1
+        },
+        "3023" : {
+            "itemID" : 3023,
+            "num" : 4
+        },
+        "3047" : {
+            "itemID" : 3047,
+            "num" : 4
+        },
+        "30267" : {
+            "itemID" : 30267,
+            "num" : 1
+        },
+        "3068" : {
+            "itemID" : 3068,
+            "num" : 2
+        },
+        "3072" : {
+            "itemID" : 3072,
+            "num" : 1
+        },
+        "3002" : {
+            "itemID" : 3002,
+            "num" : 1
+        },
+        "3059" : {
+            "itemID" : 3059,
+            "num" : 3
+        },
+        "3009" : {
+            "itemID" : 3009,
+            "num" : 15
+        },
+        "20" : {
+            "itemID" : 20,
+            "num" : 1
+        },
+        "3067" : {
+            "itemID" : 3067,
+            "num" : 3
+        },
+        "3" : {
+            "itemID" : 3,
+            "num" : 28
+        },
+        "3073" : {
+            "itemID" : 3073,
+            "num" : 6
+        },
+        "30147" : {
+            "itemID" : 30147,
+            "num" : 1
+        },
+        "30265" : {
+            "itemID" : 30265,
+            "num" : 1
+        },
+        "122" : {
+            "itemID" : 122,
+            "num" : 8
+        },
+        "12" : {
+            "itemID" : 12,
+            "num" : 10
+        },
+        "25" : {
+            "itemID" : 25,
+            "num" : 9
+        },
+        "24" : {
+            "itemID" : 24,
+            "num" : 1
+        },
+        "75" : {
+            "itemID" : 75,
+            "num" : 1
+        },
+        "80" : {
+            "itemID" : 80,
+            "num" : 9
+        },
+        "57" : {
+            "itemID" : 57,
+            "num" : 1
+        },
+        "54" : {
+            "itemID" : 54,
+            "num" : 5
+        },
+        "55" : {
+            "itemID" : 55,
+            "num" : 1
+        },
+        "22" : {
+            "itemID" : 22,
+            "num" : 1
+        }
+    },
+    "characterSkills" : {
+        "0" : {
+            "id" : 0
+        },
+        "1001" : {
+            "id" : 1001
+        },
+        "1002" : {
+            "id" : 1002
+        },
+        "1003" : {
+            "id" : 1003
+        },
+        "1004" : {
+            "id" : 1004
+        },
+        "1005" : {
+            "id" : 1005
+        },
+        "1006" : {
+            "id" : 1006
+        },
+        "1007" : {
+            "id" : 1007
+        },
+        "1008" : {
+            "id" : 1008
+        },
+        "1009" : {
+            "id" : 1009
+        },
+        "1010" : {
+            "id" : 1010
+        },
+        "1011" : {
+            "id" : 1011
+        },
+        "1012" : {
+            "id" : 1012
+        },
+        "1013" : {
+            "id" : 1013
+        },
+        "1014" : {
+            "id" : 1014
+        },
+        "1015" : {
+            "id" : 1015
+        },
+        "1016" : {
+            "id" : 1016
+        },
+        "1017" : {
+            "id" : 1017
+        },
+        "1018" : {
+            "id" : 1018
+        },
+        "1019" : {
+            "id" : 1019
+        }
+    },
+    "characterSkillSlot" : {
+        "1" : 1001,
+        "2" : 1013,
+        "3" : 1008
+    },
+    "rooms" : {
+        "1011" : {
+            "doubleEventID" : 1065,
+            "level" : 1,
+            "roomID" : 1011
+        },
+        "1025" : {
+            "dateCount" : 3,
+            "doubleEventID" : 1149,
+            "exp" : 0,
+            "level" : 4,
+            "roomID" : 1025,
+            "rooms" : {
+                "sp" : {
+                    "102501" : 1,
+                    "102502" : 1,
+                    "102503" : 1
+                }
+            }
+        },
+        "1005" : {
+            "doubleEventID" : 1028,
+            "level" : 1,
+            "roomID" : 1005
+        },
+        "1006" : {
+            "currentFashion" : 2008,
+            "dateCount" : 395,
+            "doubleEventID" : 1031,
+            "exp" : 2000,
+            "level" : 30,
+            "roomID" : 1006,
+            "rooms" : {
+                "sp" : {
+                    "100601" : 1,
+                    "100602" : 1,
+                    "100603" : 1,
+                    "100604" : 1,
+                    "100605" : 1,
+                    "100606" : 1,
+                    "100607" : 1,
+                    "100608" : 1,
+                    "100609" : 1
+                }
+            }
+        },
+        "1044" : {
+            "doubleEventID" : 1259,
+            "level" : 1,
+            "roomID" : 1044
+        },
+        "1004" : {
+            "currentFashion" : 2144,
+            "dateCount" : 321,
+            "doubleEventID" : 1024,
+            "exp" : 5400,
+            "level" : 28,
+            "roomID" : 1004,
+            "rooms" : {
+                "sp" : {
+                    "100401" : 1,
+                    "100402" : 1,
+                    "100403" : 1,
+                    "100404" : 1,
+                    "100405" : 1,
+                    "100406" : 1,
+                    "100407" : 1,
+                    "100408" : 1
+                }
+            }
+        },
+        "1002" : {
+            "dateCount" : 18,
+            "doubleEventID" : 1012,
+            "exp" : 100,
+            "level" : 11,
+            "roomID" : 1002,
+            "rooms" : {
+                "sp" : {
+                    "100201" : 1,
+                    "100202" : 1,
+                    "100203" : 1,
+                    "100204" : 1,
+                    "100205" : 1,
+                    "100206" : 1,
+                    "100207" : 1
+                }
+            }
+        },
+        "1007" : {
+            "currentFashion" : 2127,
+            "dateCount" : 365,
+            "doubleEventID" : 1040,
+            "exp" : 4600,
+            "level" : 28,
+            "roomID" : 1007,
+            "rooms" : {
+                "sp" : {
+                    "100701" : 1,
+                    "100702" : 1,
+                    "100703" : 1,
+                    "100704" : 1,
+                    "100705" : 1,
+                    "100706" : 1,
+                    "100707" : 1,
+                    "100708" : 1
+                }
+            }
+        },
+        "1008" : {
+            "currentFashion" : 2145,
+            "dateCount" : 98,
+            "doubleEventID" : 1046,
+            "exp" : 1300,
+            "level" : 16,
+            "roomID" : 1008,
+            "rooms" : {
+                "sp" : {
+                    "100801" : 1,
+                    "100802" : 1,
+                    "100803" : 1,
+                    "100804" : 1,
+                    "100805" : 1,
+                    "100806" : 1
+                }
+            }
+        },
+        "1009" : {
+            "dateCount" : 4,
+            "doubleEventID" : 1049,
+            "exp" : 200,
+            "level" : 4,
+            "roomID" : 1009,
+            "rooms" : {
+                "sp" : {
+                    "100901" : 1,
+                    "100902" : 1,
+                    "100903" : 1
+                }
+            }
+        },
+        "1001" : {
+            "dateCount" : 3,
+            "doubleEventID" : 1003,
+            "exp" : 0,
+            "level" : 4,
+            "roomID" : 1001,
+            "rooms" : {
+                "sp" : {
+                    "100101" : 1,
+                    "100102" : 1,
+                    "100103" : 1
+                }
+            }
+        },
+        "1019" : {
+            "doubleEventID" : 1114,
+            "level" : 1,
+            "roomID" : 1019
+        },
+        "1003" : {
+            "doubleEventID" : 1013,
+            "level" : 1,
+            "roomID" : 1003
+        },
+        "1038" : {
+            "doubleEventID" : 1225,
+            "level" : 1,
+            "roomID" : 1038
+        },
+        "1032" : {
+            "dateCount" : 7,
+            "doubleEventID" : 1192,
+            "exp" : 0,
+            "level" : 6,
+            "roomID" : 1032,
+            "rooms" : {
+                "sp" : {
+                    "103201" : 1,
+                    "103202" : 1,
+                    "103203" : 1,
+                    "103204" : 1
+                }
+            }
+        },
+        "1029" : {
+            "currentFashion" : 2107,
+            "dateCount" : 26,
+            "doubleEventID" : 1170,
+            "exp" : 100,
+            "level" : 11,
+            "roomID" : 1029,
+            "rooms" : {
+                "sp" : {
+                    "102901" : 1,
+                    "102902" : 1,
+                    "102903" : 1,
+                    "102904" : 1,
+                    "102905" : 1
+                }
+            }
+        },
+        "1012" : {
+            "doubleEventID" : 1068,
+            "level" : 1,
+            "roomID" : 1012
+        },
+        "1033" : {
+            "currentFashion" : 2094,
+            "dateCount" : 18,
+            "doubleEventID" : 1196,
+            "exp" : 800,
+            "level" : 8,
+            "roomID" : 1033,
+            "rooms" : {
+                "sp" : {
+                    "103301" : 1,
+                    "103302" : 1,
+                    "103303" : 1,
+                    "103304" : 1
+                }
+            }
+        },
+        "1015" : {
+            "doubleEventID" : 1090,
+            "level" : 1,
+            "roomID" : 1015
+        },
+        "1020" : {
+            "currentFashion" : 2146,
+            "dateCount" : 183,
+            "doubleEventID" : 1115,
+            "exp" : 1500,
+            "level" : 23,
+            "roomID" : 1020,
+            "rooms" : {
+                "sp" : {
+                    "102001" : 1,
+                    "102002" : 1,
+                    "102003" : 1,
+                    "102004" : 1,
+                    "102005" : 1,
+                    "102006" : 1,
+                    "102007" : 1
+                }
+            }
+        },
+        "1030" : {
+            "doubleEventID" : 1179,
+            "level" : 1,
+            "roomID" : 1030
+        },
+        "1039" : {
+            "doubleEventID" : 1232,
+            "level" : 1,
+            "roomID" : 1039
+        },
+        "1047" : {
+            "doubleEventID" : 1279,
+            "level" : 1,
+            "roomID" : 1047
+        },
+        "1027" : {
+            "dateCount" : 16,
+            "doubleEventID" : 1160,
+            "exp" : 0,
+            "level" : 8,
+            "roomID" : 1027,
+            "rooms" : {
+                "sp" : {
+                    "102701" : 1,
+                    "102702" : 1,
+                    "102703" : 1,
+                    "102704" : 1
+                }
+            }
+        },
+        "1028" : {
+            "dateCount" : 3,
+            "doubleEventID" : 1166,
+            "exp" : 0,
+            "level" : 4,
+            "roomID" : 1028,
+            "rooms" : {
+                "sp" : {
+                    "102801" : 1,
+                    "102802" : 1,
+                    "102803" : 1
+                }
+            }
+        },
+        "1021" : {
+            "currentFashion" : 2149,
+            "dateCount" : 37,
+            "doubleEventID" : 1125,
+            "exp" : 2600,
+            "level" : 11,
+            "roomID" : 1021,
+            "rooms" : {
+                "sp" : {
+                    "102101" : 1,
+                    "102102" : 1,
+                    "102103" : 1,
+                    "102104" : 1,
+                    "102105" : 1
+                }
+            }
+        },
+        "1046" : {
+            "currentFashion" : 2119,
+            "dateCount" : 227,
+            "doubleEventID" : 1276,
+            "exp" : 2300,
+            "level" : 24,
+            "roomID" : 1046,
+            "rooms" : {
+                "sp" : {
+                    "104601" : 1,
+                    "104602" : 1,
+                    "104603" : 1,
+                    "104604" : 1,
+                    "104605" : 1,
+                    "104606" : 1,
+                    "104607" : 1
+                }
+            }
+        },
+        "1035" : {
+            "currentFashion" : 2126,
+            "dateCount" : 23,
+            "doubleEventID" : 1207,
+            "exp" : 400,
+            "level" : 11,
+            "roomID" : 1035,
+            "rooms" : {
+                "sp" : {
+                    "103501" : 1,
+                    "103502" : 1,
+                    "103503" : 1,
+                    "103504" : 1,
+                    "103505" : 1
+                }
+            }
+        },
+        "1018" : {
+            "currentFashion" : 2129,
+            "dateCount" : 23,
+            "doubleEventID" : 1103,
+            "exp" : 300,
+            "level" : 11,
+            "roomID" : 1018,
+            "rooms" : {
+                "sp" : {
+                    "101801" : 1,
+                    "101802" : 1,
+                    "101803" : 1,
+                    "101804" : 1,
+                    "101805" : 1
+                }
+            }
+        },
+        "1043" : {
+            "doubleEventID" : 1258,
+            "level" : 1,
+            "roomID" : 1043
+        },
+        "1017" : {
+            "doubleEventID" : 1097,
+            "level" : 1,
+            "roomID" : 1017
+        },
+        "1026" : {
+            "doubleEventID" : 1152,
+            "level" : 1,
+            "roomID" : 1026
+        },
+        "1034" : {
+            "currentFashion" : 2034,
+            "dateCount" : 401,
+            "doubleEventID" : 1199,
+            "exp" : 1100,
+            "level" : 30,
+            "roomID" : 1034,
+            "rooms" : {
+                "sp" : {
+                    "103401" : 1,
+                    "103402" : 1,
+                    "103403" : 1,
+                    "103404" : 1,
+                    "103405" : 1,
+                    "103406" : 1,
+                    "103407" : 1,
+                    "103408" : 1,
+                    "103409" : 1
+                }
+            }
+        },
+        "1031" : {
+            "doubleEventID" : 1183,
+            "level" : 1,
+            "roomID" : 1031
+        },
+        "1036" : {
+            "currentFashion" : 2136,
+            "dateCount" : 400,
+            "doubleEventID" : 1215,
+            "exp" : 1000,
+            "level" : 30,
+            "roomID" : 1036,
+            "rooms" : {
+                "sp" : {
+                    "103601" : 1,
+                    "103602" : 1,
+                    "103603" : 1,
+                    "103604" : 1,
+                    "103605" : 1,
+                    "103606" : 1,
+                    "103607" : 1,
+                    "103608" : 1,
+                    "103609" : 1
+                }
+            }
+        },
+        "1010" : {
+            "dateCount" : 3,
+            "doubleEventID" : 1055,
+            "exp" : 0,
+            "level" : 4,
+            "roomID" : 1010,
+            "rooms" : {
+                "sp" : {
+                    "101001" : 1,
+                    "101002" : 1,
+                    "101003" : 1
+                }
+            }
+        },
+        "1014" : {
+            "dateCount" : 6,
+            "doubleEventID" : 1080,
+            "exp" : 700,
+            "level" : 4,
+            "roomID" : 1014,
+            "rooms" : {
+                "sp" : {
+                    "101401" : 1,
+                    "101402" : 1,
+                    "101403" : 1
+                }
+            }
+        },
+        "1022" : {
+            "doubleEventID" : 1131,
+            "level" : 1,
+            "roomID" : 1022
+        },
+        "1042" : {
+            "doubleEventID" : 1249,
+            "level" : 1,
+            "roomID" : 1042
+        },
+        "1040" : {
+            "doubleEventID" : 1235,
+            "level" : 1,
+            "roomID" : 1040
+        },
+        "1013" : {
+            "dateCount" : 3,
+            "doubleEventID" : 1078,
+            "exp" : 0,
+            "level" : 4,
+            "roomID" : 1013,
+            "rooms" : {
+                "sp" : {
+                    "101301" : 1,
+                    "101302" : 1,
+                    "101303" : 1
+                }
+            }
+        },
+        "1016" : {
+            "currentFashion" : 2076,
+            "dateCount" : 262,
+            "doubleEventID" : 1093,
+            "exp" : 1100,
+            "level" : 25,
+            "roomID" : 1016,
+            "rooms" : {
+                "sp" : {
+                    "101601" : 1,
+                    "101602" : 1,
+                    "101603" : 1,
+                    "101604" : 1,
+                    "101605" : 1,
+                    "101606" : 1,
+                    "101607" : 1,
+                    "101608" : 1
+                }
+            }
+        },
+        "1024" : {
+            "doubleEventID" : 1141,
+            "level" : 1,
+            "roomID" : 1024
+        },
+        "1048" : {
+            "doubleEventID" : 1286,
+            "level" : 1,
+            "roomID" : 1048
+        },
+        "1041" : {
+            "doubleEventID" : 1244,
+            "level" : 1,
+            "roomID" : 1041
+        },
+        "1023" : {
+            "doubleEventID" : 1138,
+            "level" : 1,
+            "roomID" : 1023
+        },
+        "1045" : {
+            "currentFashion" : 2178,
+            "dateCount" : 391,
+            "doubleEventID" : 1265,
+            "exp" : 1100,
+            "level" : 30,
+            "roomID" : 1045,
+            "rooms" : {
+                "sp" : {
+                    "104501" : 1,
+                    "104502" : 1,
+                    "104503" : 1,
+                    "104504" : 1,
+                    "104505" : 1,
+                    "104506" : 1,
+                    "104507" : 1,
+                    "104508" : 1,
+                    "104509" : 1
+                }
+            }
+        },
+        "1037" : {
+            "doubleEventID" : 1222,
+            "level" : 1,
+            "roomID" : 1037
+        },
+        "1054" : {
+            "doubleEventID" : 1323,
+            "level" : 1,
+            "roomID" : 1054
+        }
+    },
+    "achieveMentID" : 182,
+    "finishAdvMapRouteID" : 182,
+    "idleAwardExp" : 500,
+    "idleAwardGold" : 1280,
+    "idleAwardLastTime" : "1641812699",
+    "idleAwardExpTemp" : 0,
+    "idleAwardGoldTemp" : 0,
+    "aesList" : [],
+    "allTrainingTimes" : 307,
+    "lastPracticeTime" : "1641790572",
+    "stat" : {
+        "logoutTime" : "2022-01-10T22:07:34.775+08:00"
+    },
+    "firstAllTraining" : 1,
+    "resetRewardTimes" : 0,
+    "firstLoginAllTraining" : 1,
+    "propsList" : [ 
+        {
+            "buyTime" : 5,
+            "id" : 1001
+        }, 
+        {
+            "buyTime" : 1,
+            "id" : 1002
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1003
+        }, 
+        {
+            "buyTime" : 1,
+            "id" : 1004
+        }, 
+        {
+            "buyTime" : 2,
+            "id" : 1005
+        }, 
+        {
+            "buyTime" : 0,
+            "id" : 1006
+        }, 
+        {
+            "buyTime" : 5,
+            "id" : 1008
+        }, 
+        {
+            "buyTime" : 5,
+            "id" : 1009
+        }, 
+        {
+            "buyTime" : 1,
+            "id" : 1010
+        }, 
+        {
+            "buyTime" : 1,
+            "id" : 1011
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1012
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1013
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1014
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1015
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1016
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1017
+        }
+    ],
+    "dimaindUpdataPropsListTime" : 0,
+    "lastBuyPropsTime" : "1641790648",
+    "mysPropsList" : [ 
+        {
+            "buyTime" : 3,
+            "id" : 1071
+        }, 
+        {
+            "buyTime" : 10,
+            "id" : 1000
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1067
+        }, 
+        {
+            "buyTime" : 2,
+            "id" : 1089
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1070
+        }, 
+        {
+            "buyTime" : 1,
+            "id" : 1030
+        }, 
+        {
+            "buyTime" : 10,
+            "id" : 999
+        }, 
+        {
+            "buyTime" : 1,
+            "id" : 1094
+        }, 
+        {
+            "buyTime" : 1,
+            "id" : 1095
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1059
+        }, 
+        {
+            "buyTime" : 3,
+            "id" : 1053
+        }, 
+        {
+            "buyTime" : 200,
+            "id" : 997
+        }
+    ],
+    "getMysPropsListTime" : 1,
+    "upDataPropsTime" : "1641823586",
+    "updataPropListTimes" : 1,
+    "SignTimes" : 81,
+    "lastSignTime" : "1641776599",
+    "getWelfareList" : [ 
+        {
+            "id" : 1001,
+            "time" : 1
+        }, 
+        {
+            "id" : 1002,
+            "time" : 1
+        }, 
+        {
+            "id" : 1003,
+            "time" : 1
+        }, 
+        {
+            "id" : 1004,
+            "time" : 1
+        }, 
+        {
+            "id" : 1005,
+            "time" : 1
+        }, 
+        {
+            "id" : 2001,
+            "time" : 1
+        }, 
+        {
+            "id" : 1006,
+            "time" : 1
+        }, 
+        {
+            "id" : 2002,
+            "time" : 1
+        }, 
+        {
+            "id" : 1007,
+            "time" : 1
+        }, 
+        {
+            "id" : 4001,
+            "time" : 1
+        }, 
+        {
+            "id" : 2003,
+            "time" : 1
+        }, 
+        {
+            "id" : 3001,
+            "time" : 1
+        }, 
+        {
+            "id" : 4002,
+            "time" : 1
+        }, 
+        {
+            "id" : 4003,
+            "time" : 1
+        }, 
+        {
+            "id" : 4004,
+            "time" : 1
+        }, 
+        {
+            "id" : 4005,
+            "time" : 1
+        }, 
+        {
+            "id" : 1008,
+            "time" : 1
+        }, 
+        {
+            "id" : 2004,
+            "time" : 1
+        }, 
+        {
+            "id" : 2005,
+            "time" : 1
+        }, 
+        {
+            "id" : 1009,
+            "time" : 1
+        }, 
+        {
+            "id" : 1010,
+            "time" : 1
+        }, 
+        {
+            "id" : 4006,
+            "time" : 1
+        }, 
+        {
+            "id" : 1011,
+            "time" : 1
+        }, 
+        {
+            "id" : 2006,
+            "time" : 1
+        }, 
+        {
+            "id" : 4007,
+            "time" : 1
+        }, 
+        {
+            "id" : 4008,
+            "time" : 1
+        }, 
+        {
+            "id" : 4009,
+            "time" : 1
+        }, 
+        {
+            "id" : 11001,
+            "time" : 1
+        }, 
+        {
+            "id" : 11002,
+            "time" : 1
+        }, 
+        {
+            "id" : 1012,
+            "time" : 1
+        }, 
+        {
+            "id" : 7001,
+            "time" : 1
+        }, 
+        {
+            "id" : 11003,
+            "time" : 1
+        }, 
+        {
+            "id" : 4010,
+            "time" : 1
+        }, 
+        {
+            "id" : 2007,
+            "time" : 1
+        }, 
+        {
+            "id" : 1013,
+            "time" : 1
+        }, 
+        {
+            "id" : 4011,
+            "time" : 1
+        }, 
+        {
+            "id" : 4012,
+            "time" : 1
+        }, 
+        {
+            "id" : 4013,
+            "time" : 1
+        }, 
+        {
+            "id" : 11004,
+            "time" : 1
+        }, 
+        {
+            "id" : 1014,
+            "time" : 1
+        }, 
+        {
+            "id" : 11901,
+            "time" : 1
+        }, 
+        {
+            "id" : 11902,
+            "time" : 1
+        }, 
+        {
+            "id" : 2008,
+            "time" : 1
+        }, 
+        {
+            "id" : 4014,
+            "time" : 1
+        }, 
+        {
+            "id" : 11005,
+            "time" : 1
+        }, 
+        {
+            "id" : 1015,
+            "time" : 1
+        }, 
+        {
+            "id" : 6001,
+            "time" : 1
+        }, 
+        {
+            "id" : 4015,
+            "time" : 1
+        }, 
+        {
+            "id" : 1016,
+            "time" : 1
+        }, 
+        {
+            "id" : 2009,
+            "time" : 1
+        }, 
+        {
+            "id" : 11006,
+            "time" : 1
+        }, 
+        {
+            "id" : 4016,
+            "time" : 1
+        }, 
+        {
+            "id" : 4017,
+            "time" : 1
+        }, 
+        {
+            "id" : 4018,
+            "time" : 1
+        }, 
+        {
+            "id" : 1017,
+            "time" : 1
+        }, 
+        {
+            "id" : 4019,
+            "time" : 1
+        }, 
+        {
+            "id" : 4020,
+            "time" : 1
+        }, 
+        {
+            "id" : 6002,
+            "time" : 1
+        }, 
+        {
+            "id" : 2010,
+            "time" : 1
+        }, 
+        {
+            "id" : 1018,
+            "time" : 1
+        }, 
+        {
+            "id" : 2011,
+            "time" : 1
+        }, 
+        {
+            "id" : 11007,
+            "time" : 1
+        }, 
+        {
+            "id" : 1019,
+            "time" : 1
+        }, 
+        {
+            "id" : 12001,
+            "time" : 1
+        }, 
+        {
+            "id" : 4021,
+            "time" : 1
+        }, 
+        {
+            "id" : 12002,
+            "time" : 1
+        }, 
+        {
+            "id" : 1020,
+            "time" : 1
+        }, 
+        {
+            "id" : 11008,
+            "time" : 1
+        }, 
+        {
+            "id" : 1021,
+            "time" : 1
+        }, 
+        {
+            "id" : 4022,
+            "time" : 1
+        }, 
+        {
+            "id" : 11009,
+            "time" : 1
+        }, 
+        {
+            "id" : 4023,
+            "time" : 1
+        }, 
+        {
+            "id" : 3002,
+            "time" : 1
+        }, 
+        {
+            "id" : 1022,
+            "time" : 1
+        }, 
+        {
+            "id" : 2012,
+            "time" : 1
+        }, 
+        {
+            "id" : 7002,
+            "time" : 1
+        }, 
+        {
+            "id" : 4024,
+            "time" : 1
+        }, 
+        {
+            "id" : 1023,
+            "time" : 1
+        }, 
+        {
+            "id" : 11010,
+            "time" : 1
+        }, 
+        {
+            "id" : 4025,
+            "time" : 1
+        }, 
+        {
+            "id" : 6003,
+            "time" : 1
+        }, 
+        {
+            "id" : 1024,
+            "time" : 1
+        }, 
+        {
+            "id" : 4026,
+            "time" : 1
+        }, 
+        {
+            "id" : 12003,
+            "time" : 1
+        }, 
+        {
+            "id" : 1025,
+            "time" : 1
+        }, 
+        {
+            "id" : 3003,
+            "time" : 1
+        }, 
+        {
+            "id" : 11011,
+            "time" : 1
+        }, 
+        {
+            "id" : 1026,
+            "time" : 1
+        }, 
+        {
+            "id" : 11012,
+            "time" : 1
+        }, 
+        {
+            "id" : 6004,
+            "time" : 1
+        }, 
+        {
+            "id" : 1027,
+            "time" : 1
+        }, 
+        {
+            "id" : 1028,
+            "time" : 1
+        }, 
+        {
+            "id" : 3004,
+            "time" : 1
+        }, 
+        {
+            "id" : 6005,
+            "time" : 1
+        }, 
+        {
+            "id" : 6006,
+            "time" : 1
+        }, 
+        {
+            "id" : 6007,
+            "time" : 1
+        }, 
+        {
+            "id" : 7003,
+            "time" : 1
+        }, 
+        {
+            "id" : 4027,
+            "time" : 1
+        }, 
+        {
+            "id" : 11013,
+            "time" : 1
+        }, 
+        {
+            "id" : 4028,
+            "time" : 1
+        }, 
+        {
+            "id" : 11014,
+            "time" : 1
+        }, 
+        {
+            "id" : 11015,
+            "time" : 1
+        }, 
+        {
+            "id" : 3005,
+            "time" : 1
+        }, 
+        {
+            "id" : 11016,
+            "time" : 1
+        }, 
+        {
+            "id" : 4029,
+            "time" : 1
+        }, 
+        {
+            "id" : 4030,
+            "time" : 1
+        }, 
+        {
+            "id" : 11017,
+            "time" : 1
+        }, 
+        {
+            "id" : 13001,
+            "time" : 1
+        }, 
+        {
+            "id" : 11018,
+            "time" : 1
+        }, 
+        {
+            "id" : 3006,
+            "time" : 1
+        }, 
+        {
+            "id" : 7004,
+            "time" : 1
+        }, 
+        {
+            "id" : 11019,
+            "time" : 1
+        }, 
+        {
+            "id" : 11020,
+            "time" : 1
+        }, 
+        {
+            "id" : 13002,
+            "time" : 1
+        }, 
+        {
+            "id" : 11021,
+            "time" : 1
+        }
+    ],
+    "activeData" : {
+        "1" : {
+            "num" : 1
+        },
+        "10" : {
+            "num" : 1
+        },
+        "2" : {
+            "num" : 1
+        },
+        "3" : {
+            "num" : 1
+        },
+        "4" : {
+            "num" : 1
+        },
+        "5" : {
+            "num" : 1
+        },
+        "6" : {
+            "id" : 6,
+            "num" : 1
+        },
+        "7" : {
+            "num" : 1
+        },
+        "8" : {
+            "num" : 1
+        }
+    },
+    "lastActiveTime" : "1641790977",
+    "GroupMails" : {
+        "1634732938458" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1634732939310" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1634781951841" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1634783430697" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1634926578621" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1635065109190" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1635255905471" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1635720407407" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1636045098253" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1636045099477" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1636081291627" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1636448878320" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1636668376860" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1637273240346" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1637877815986" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1637894900846" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1638265208466" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1638482636973" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1638528944271" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1638959568853" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639088076822" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639099919023" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639145719324" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639360330853" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639471254725" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639550967094" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639651636487" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639692323830" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1639706773477" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1640297087624" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1640297088180" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1640902957806" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1640903597690" : {
+            "isFetch" : true,
+            "isRead" : true
+        },
+        "1641506485003" : {
+            "isFetch" : true,
+            "isRead" : true
+        }
+    },
+    "zyhq2" : 1812,
+    "alltrainingTimesOfUR" : 0,
+    "recharge" : {
+        "ntf" : {
+            "98146575_N1017_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy4120211111163659357368780799",
+                                "money" : 68.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N1002_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211021163478428372395405",
+                                "money" : 1.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N1006_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211021163478429676541645",
+                                "money" : 6.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N1004_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b2021102116347843132697542",
+                                "money" : 6.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N5_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy752021111916372994653555869",
+                                "money" : 98.0,
+                                "bought" : true,
+                                "mCash" : 1960,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N3_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211021163478437582912596",
+                                "money" : 30.0,
+                                "bought" : true,
+                                "mCash" : 600,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N1031_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy7520211021163479956674929979",
+                                "money" : 388.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N1022_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211021163482315425798334",
+                                "money" : 128.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N1025_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211021163482326846316800",
+                                "money" : 188.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_M10001_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211217163971268283593726",
+                                "money" : 25.0,
+                                "bought" : true,
+                                "mCash" : 250,
+                                "gCash" : 25000,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_M20001_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211221164004832931556962",
+                                "money" : 98.0,
+                                "bought" : true,
+                                "mCash" : 980,
+                                "gCash" : 98000,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N10001_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211023163495473738139392",
+                                "money" : 30.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N20001_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211023163496507304078648",
+                                "money" : 68.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N9_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211217163971390516546204",
+                                "money" : 328.0,
+                                "bought" : true,
+                                "mCash" : 6560,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N7_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy02b20211217163971385398690809",
+                                "money" : 198.0,
+                                "bought" : true,
+                                "mCash" : 3960,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N1019_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy7520211116163707099431619294",
+                                "money" : 88.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            },
+            "98146575_N1034_http://8" : {
+                "141" : {
+                    "60" : {
+                        "63:3301/recharge" : {
+                            "pay" : {
+                                "orderID" : "xy7520211116163707185616152866",
+                                "money" : 588.0,
+                                "bought" : true,
+                                "mCash" : 0,
+                                "gCash" : 0,
+                                "periodMCash" : 0
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "totalMoney" : 3775.0,
+        "version" : 26,
+        "orders" : [ 
+            "xy02b20211021163478408804264131", 
+            "xy02b20211021163478428372395405", 
+            "xy02b20211021163478429676541645", 
+            "xy02b2021102116347843132697542", 
+            "xy02b20211021163478434563192345", 
+            "xy02b20211021163478437582912596", 
+            "xy7520211021163479956674929979", 
+            "xy02b20211021163482315425798334", 
+            "xy02b20211021163482326846316800", 
+            "xy02b20211021163482329013087835", 
+            "xy02b20211021163482331266112350", 
+            "xy02b20211023163495473738139392", 
+            "xy02b20211023163496507304078648", 
+            "xy4120211111163659357368780799", 
+            "xy7520211112163667222963093558", 
+            "xy752021111216366722694961359", 
+            "xy7520211116163707099431619294", 
+            "xy7520211116163707185616152866", 
+            "xy7520211119163729933559463068", 
+            "xy752021111916372994653555869", 
+            "xy412021111916372996110556054", 
+            "xy02b20211121163745320259251933", 
+            "xy02b20211217163971268283593726", 
+            "xy02b20211217163971385398690809", 
+            "xy02b20211217163971390516546204", 
+            "xy02b20211221164004832931556962"
+        ],
+        "cd" : {
+            "N7" : {
+                "time" : "2021-12-17T12:04:21.101+08:00",
+                "orderID" : "xy02b20211217163971385398690809"
+            },
+            "N9" : {
+                "time" : "2021-12-17T12:05:11.275+08:00",
+                "orderID" : "xy02b20211217163971390516546204"
+            }
+        }
+    },
+    "totalDollor" : 0.0,
+    "buyRechargeAwardTimes" : {
+        "N1017" : {
+            "2030-9-24 11:30:00" : {
+                "count" : 1,
+                "t" : "1636593583"
+            }
+        },
+        "N1002" : {
+            "2030-9-23 11:30:00" : {
+                "count" : 1,
+                "t" : "1634784290"
+            }
+        },
+        "N1006" : {
+            "2030-9-23 11:30:00" : {
+                "count" : 1,
+                "t" : "1634784304"
+            }
+        },
+        "N1004" : {
+            "2030-9-23 11:30:00" : {
+                "count" : 1,
+                "t" : "1634784322"
+            }
+        },
+        "N1031" : {
+            "2030-9-23 11:30:00" : {
+                "count" : 1,
+                "t" : "1634799576"
+            }
+        },
+        "N1022" : {
+            "2030-7-27 23:59:59" : {
+                "count" : 1,
+                "t" : "1634823161"
+            }
+        },
+        "N1025" : {
+            "2030-9-23 11:30:00" : {
+                "count" : 1,
+                "t" : "1634823275"
+            }
+        },
+        "N10001" : {
+            "2030-9-14 06:00:00" : {
+                "count" : 1,
+                "t" : "1634954744"
+            }
+        },
+        "N1019" : {
+            "2021-11-18 06:00:00" : {
+                "count" : 1,
+                "t" : "1637071004"
+            }
+        },
+        "N1034" : {
+            "2030-9-23 11:30:00" : {
+                "count" : 1,
+                "t" : "1637071862"
+            }
+        }
+    },
+    "sp_mcash" : 2497,
+    "rechargeTotalMCash" : 39520,
+    "gateList" : [ 
+        {
+            "id" : 1,
+            "time" : 1
+        }, 
+        {
+            "id" : 117,
+            "time" : 1
+        }, 
+        {
+            "id" : 116,
+            "time" : 1
+        }, 
+        {
+            "id" : 113,
+            "time" : 1
+        }, 
+        {
+            "id" : 114,
+            "time" : 1
+        }, 
+        {
+            "id" : 2,
+            "time" : 1
+        }, 
+        {
+            "id" : 115,
+            "time" : 1
+        }, 
+        {
+            "id" : 123,
+            "time" : 1
+        }, 
+        {
+            "id" : 124,
+            "time" : 1
+        }, 
+        {
+            "id" : 125,
+            "time" : 1
+        }, 
+        {
+            "id" : 3,
+            "time" : 1
+        }, 
+        {
+            "id" : 126,
+            "time" : 1
+        }, 
+        {
+            "id" : 127,
+            "time" : 1
+        }, 
+        {
+            "id" : 128,
+            "time" : 1
+        }, 
+        {
+            "id" : 4,
+            "time" : 1
+        }, 
+        {
+            "id" : 6,
+            "time" : 1
+        }, 
+        {
+            "id" : 7,
+            "time" : 1
+        }, 
+        {
+            "id" : 129,
+            "time" : 1
+        }, 
+        {
+            "id" : 130,
+            "time" : 1
+        }, 
+        {
+            "id" : 8,
+            "time" : 1
+        }, 
+        {
+            "id" : 9,
+            "time" : 1
+        }, 
+        {
+            "id" : 10,
+            "time" : 1
+        }, 
+        {
+            "id" : 11,
+            "time" : 1
+        }, 
+        {
+            "id" : 12,
+            "time" : 1
+        }, 
+        {
+            "id" : 118,
+            "time" : 1
+        }, 
+        {
+            "id" : 119,
+            "time" : 1
+        }, 
+        {
+            "id" : 120,
+            "time" : 1
+        }, 
+        {
+            "id" : 121,
+            "time" : 1
+        }, 
+        {
+            "id" : 122,
+            "time" : 1
+        }, 
+        {
+            "id" : 5,
+            "time" : 1
+        }, 
+        {
+            "id" : 19,
+            "time" : 1
+        }, 
+        {
+            "id" : 20,
+            "time" : 1
+        }, 
+        {
+            "id" : 21,
+            "time" : 1
+        }, 
+        {
+            "id" : 22,
+            "time" : 1
+        }, 
+        {
+            "id" : 131,
+            "time" : 1
+        }, 
+        {
+            "id" : 24,
+            "time" : 1
+        }, 
+        {
+            "id" : 25,
+            "time" : 1
+        }, 
+        {
+            "id" : 26,
+            "time" : 1
+        }, 
+        {
+            "id" : 27,
+            "time" : 1
+        }, 
+        {
+            "id" : 132,
+            "time" : 1
+        }, 
+        {
+            "id" : 29,
+            "time" : 1
+        }, 
+        {
+            "id" : 30,
+            "time" : 1
+        }, 
+        {
+            "id" : 31,
+            "time" : 1
+        }, 
+        {
+            "id" : 32,
+            "time" : 1
+        }, 
+        {
+            "id" : 34,
+            "time" : 1
+        }, 
+        {
+            "id" : 35,
+            "time" : 1
+        }, 
+        {
+            "id" : 36,
+            "time" : 1
+        }, 
+        {
+            "id" : 37,
+            "time" : 1
+        }, 
+        {
+            "id" : 133,
+            "time" : 1
+        }, 
+        {
+            "id" : 134,
+            "time" : 1
+        }, 
+        {
+            "id" : 39,
+            "time" : 1
+        }, 
+        {
+            "id" : 40,
+            "time" : 1
+        }, 
+        {
+            "id" : 41,
+            "time" : 1
+        }, 
+        {
+            "id" : 42,
+            "time" : 1
+        }, 
+        {
+            "id" : 135,
+            "time" : 1
+        }, 
+        {
+            "id" : 44,
+            "time" : 1
+        }, 
+        {
+            "id" : 45,
+            "time" : 1
+        }, 
+        {
+            "id" : 46,
+            "time" : 1
+        }, 
+        {
+            "id" : 47,
+            "time" : 1
+        }, 
+        {
+            "id" : 136,
+            "time" : 1
+        }, 
+        {
+            "id" : 49,
+            "time" : 1
+        }, 
+        {
+            "id" : 50,
+            "time" : 1
+        }, 
+        {
+            "id" : 51,
+            "time" : 1
+        }, 
+        {
+            "id" : 52,
+            "time" : 1
+        }, 
+        {
+            "id" : 53,
+            "time" : 1
+        }, 
+        {
+            "id" : 54,
+            "time" : 1
+        }, 
+        {
+            "id" : 55,
+            "time" : 1
+        }, 
+        {
+            "id" : 56,
+            "time" : 1
+        }, 
+        {
+            "id" : 57,
+            "time" : 1
+        }, 
+        {
+            "id" : 58,
+            "time" : 1
+        }, 
+        {
+            "id" : 59,
+            "time" : 1
+        }, 
+        {
+            "id" : 60,
+            "time" : 1
+        }, 
+        {
+            "id" : 61,
+            "time" : 1
+        }, 
+        {
+            "id" : 62,
+            "time" : 1
+        }, 
+        {
+            "id" : 63,
+            "time" : 1
+        }, 
+        {
+            "id" : 64,
+            "time" : 1
+        }, 
+        {
+            "id" : 65,
+            "time" : 1
+        }, 
+        {
+            "id" : 66,
+            "time" : 1
+        }, 
+        {
+            "id" : 67,
+            "time" : 1
+        }, 
+        {
+            "id" : 68,
+            "time" : 1
+        }, 
+        {
+            "id" : 69,
+            "time" : 1
+        }, 
+        {
+            "id" : 70,
+            "time" : 1
+        }, 
+        {
+            "id" : 71,
+            "time" : 1
+        }, 
+        {
+            "id" : 72,
+            "time" : 1
+        }, 
+        {
+            "id" : 73,
+            "time" : 1
+        }, 
+        {
+            "id" : 74,
+            "time" : 1
+        }, 
+        {
+            "id" : 75,
+            "time" : 1
+        }, 
+        {
+            "id" : 76,
+            "time" : 1
+        }, 
+        {
+            "id" : 77,
+            "time" : 1
+        }
+    ],
+    "winData" : [ 
+        {
+            "id" : 1,
+            "token" : 1
+        }, 
+        {
+            "id" : 2,
+            "token" : 1
+        }, 
+        {
+            "id" : 3,
+            "token" : 1
+        }, 
+        {
+            "id" : 4,
+            "token" : 1
+        }, 
+        {
+            "id" : 5,
+            "token" : 1
+        }
+    ],
+    "winTimes" : 10,
+    "lastSeasonTime" : "1641786834",
+    "arenaPoint" : 8000,
+    "backupArenaGrade" : 30,
+    "backupArenaPoint" : 7960,
+    "battleKeyCode" : "162794507",
+    "boxList" : [ 
+        {
+            "id" : 94,
+            "createTime" : "1641812469"
+        }, 
+        {
+            "id" : 88,
+            "createTime" : "1641826869"
+        }, 
+        {
+            "id" : 92,
+            "createTime" : "1641834069"
+        }, 
+        {
+            "id" : 91,
+            "createTime" : "1641841269"
+        }
+    ],
+    "arenaContinueLose" : 0,
+    "arenaContinueWin" : 6,
+    "arenaGrade" : 31,
+    "battleTime" : 10,
+    "boxsize" : 4,
+    "lastArenaGetGCashTime" : "1641790869",
+    "todayGetGCashNum" : 240000,
+    "todayGetPrestigeNum" : 4000,
+    "winNum" : 0,
+    "dailtStageMap" : {
+        "1" : {
+            "id" : 1,
+            "routeID" : [ 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6
+            ],
+            "times" : 0
+        },
+        "2" : {
+            "id" : 2,
+            "routeID" : [ 
+                101, 
+                102, 
+                103, 
+                104, 
+                105, 
+                106
+            ],
+            "times" : 0
+        }
+    },
+    "currentDataStageMapID" : 2,
+    "currentDataStageMapRouteID" : 106,
+    "f_cash" : 8500,
+    "currentTeaMapID" : 12,
+    "teachList" : [ 
+        {
+            "id" : 1,
+            "times" : 0
+        }, 
+        {
+            "id" : 4,
+            "times" : 0
+        }, 
+        {
+            "id" : 3,
+            "times" : 0
+        }, 
+        {
+            "id" : 2,
+            "times" : 0
+        }, 
+        {
+            "id" : 6,
+            "times" : 0
+        }, 
+        {
+            "id" : 5,
+            "times" : 0
+        }, 
+        {
+            "id" : 7,
+            "times" : 0
+        }, 
+        {
+            "id" : 8,
+            "times" : 0
+        }, 
+        {
+            "id" : 9,
+            "times" : 0
+        }, 
+        {
+            "id" : 11,
+            "times" : 0
+        }, 
+        {
+            "id" : 10,
+            "times" : 0
+        }, 
+        {
+            "id" : 12,
+            "times" : 0
+        }
+    ],
+    "lastDatePowerNumCalTime" : "1641790701",
+    "challengeList" : [ 
+        {
+            "id" : 10,
+            "token" : 1,
+            "achieveTaskPercent" : 3236
+        }, 
+        {
+            "id" : 11,
+            "token" : 1,
+            "achieveTaskPercent" : 3236
+        }, 
+        {
+            "id" : 12,
+            "token" : 1,
+            "achieveTaskPercent" : 3236
+        }, 
+        {
+            "id" : 1,
+            "token" : 1,
+            "achieveTaskPercent" : 4
+        }, 
+        {
+            "id" : 2,
+            "token" : 1,
+            "achieveTaskPercent" : 4
+        }, 
+        {
+            "id" : 3,
+            "token" : 1,
+            "achieveTaskPercent" : 4
+        }, 
+        {
+            "id" : 4,
+            "token" : 1,
+            "achieveTaskPercent" : 10
+        }, 
+        {
+            "id" : 25,
+            "token" : 1,
+            "achieveTaskPercent" : 49
+        }, 
+        {
+            "id" : 26,
+            "token" : 1,
+            "achieveTaskPercent" : 49
+        }, 
+        {
+            "id" : 27,
+            "token" : 1,
+            "achieveTaskPercent" : 49
+        }, 
+        {
+            "id" : 7,
+            "token" : 1,
+            "achieveTaskPercent" : 4
+        }, 
+        {
+            "id" : 19,
+            "token" : 1,
+            "achieveTaskPercent" : 11
+        }, 
+        {
+            "id" : 5,
+            "token" : 1,
+            "achieveTaskPercent" : 15
+        }, 
+        {
+            "id" : 16,
+            "token" : 1,
+            "achieveTaskPercent" : 2
+        }, 
+        {
+            "id" : 22,
+            "token" : 1,
+            "achieveTaskPercent" : 1100
+        }, 
+        {
+            "id" : 13,
+            "token" : 1,
+            "achieveTaskPercent" : 4
+        }, 
+        {
+            "id" : 8,
+            "token" : 1,
+            "achieveTaskPercent" : 4
+        }, 
+        {
+            "id" : 17,
+            "token" : 1,
+            "achieveTaskPercent" : 4
+        }, 
+        {
+            "id" : 23,
+            "token" : 1,
+            "achieveTaskPercent" : 1300
+        }, 
+        {
+            "id" : 20,
+            "token" : 1,
+            "achieveTaskPercent" : 16
+        }, 
+        {
+            "id" : 24,
+            "token" : 1,
+            "achieveTaskPercent" : 1500
+        }, 
+        {
+            "id" : 14,
+            "token" : 1,
+            "achieveTaskPercent" : 8
+        }, 
+        {
+            "id" : 21,
+            "token" : 1,
+            "achieveTaskPercent" : 21
+        }, 
+        {
+            "id" : 6,
+            "token" : 1,
+            "achieveTaskPercent" : 20
+        }, 
+        {
+            "id" : 18,
+            "token" : 1,
+            "achieveTaskPercent" : 8
+        }, 
+        {
+            "id" : 15,
+            "token" : 1,
+            "achieveTaskPercent" : 12
+        }, 
+        {
+            "id" : 9,
+            "token" : 1,
+            "achieveTaskPercent" : 4
+        }
+    ],
+    "datePowerPoint" : 0,
+    "lastDatePowerCalTime" : "1641790713",
+    "lastAllPracticeTime" : "1641790630",
+    "trainingTimes" : 8,
+    "needFriendCardNum" : 2,
+    "receiveFriendCardNum" : 0,
+    "lastNeedFriendCardTime" : "1641790675",
+    "needFriendCardID" : 15,
+    "severboonAward_201" : 1,
+    "severboonAward_202" : 1,
+    "severboonAward_203" : 1,
+    "severboonAward_204" : 1,
+    "severboonAward_1" : 1,
+    "compoundTimes" : 5,
+    "lastCompoundTime" : "1641689367",
+    "currentBattleType" : 0,
+    "autoMonsters" : [ 
+        18, 
+        116, 
+        65, 
+        55, 
+        42, 
+        108
+    ],
+    "autoRewardList" : [ 
+        {
+            "id" : 65,
+            "num" : 1,
+            "type" : 2
+        }, 
+        {
+            "id" : 65,
+            "num" : 1,
+            "type" : 2
+        }, 
+        {
+            "id" : 65,
+            "num" : 1,
+            "type" : 2
+        }
+    ],
+    "lastIntoachieveMentIdTime" : "1641822303",
+    "rewardMaxNum" : 8,
+    "2011001severboon" : 1,
+    "11001severboon" : 1,
+    "41001severboon" : 1,
+    "pvpBattleTimeVersion" : "2714",
+    "lastPvpBattleTime" : "1641822324",
+    "pvpContinueWin" : 4,
+    "pvpContinueLose" : 0,
+    "pvpBattleCount" : 0,
+    "pvpBattlePoint" : 2140,
+    "pvpBattleUpdateTime" : "1641823151",
+    "pvpBattleLastBattleTimeMS" : "1641823151935",
+    "pvpSeasonBattleCount" : 18,
+    "battleKeyCodeP" : "156266435",
+    "pvpBattleDailyCount" : 18,
+    "pvpBattleEnemyCharID" : 12643536,
+    "pvpBattleLastBattleTime" : "1641812724",
+    "pvpStartCheck" : 990,
+    "pvpEndCheck" : 990,
+    "pvpWinAddMCashVersion" : "2020-1-1 06:00:00",
+    "severboonAward_301" : 1,
+    "severboonAward_302" : 1,
+    "severboonAward_205" : 1,
+    "severboonAward_206" : 1,
+    "severboonAward_4" : 1,
+    "2021001severboon" : 1,
+    "2031001severboon" : 1,
+    "giftFund" : {
+        "5001" : {
+            "id" : 5001,
+            "gotIDs" : {
+                "10" : 10,
+                "11" : 11,
+                "12" : 12,
+                "13" : 13,
+                "14" : 14,
+                "15" : 15,
+                "16" : 16,
+                "17" : 17,
+                "18" : 18,
+                "19" : 19,
+                "20" : 20,
+                "21" : 21,
+                "22" : 22,
+                "23" : 23,
+                "24" : 24,
+                "25" : 25,
+                "26" : 26,
+                "27" : 27,
+                "28" : 28,
+                "29" : 29,
+                "30" : 30,
+                "4" : 4,
+                "5" : 5,
+                "6" : 6,
+                "7" : 7,
+                "8" : 8,
+                "9" : 9
+            }
+        }
+    },
+    "monthCards" : {
+        "10001" : {
+            "lastTime" : "1642304690",
+            "lastAwardTime" : "1641776593"
+        },
+        "20001" : {
+            "lastTime" : "1642640337",
+            "lastAwardTime" : "1641776596"
+        }
+    },
+    "monthCardLastTime" : "1647783296",
+    "currentDailyStageRouteOfDiffID1" : 6,
+    "severboonAward_402" : 1,
+    "severboonAward_401" : 1,
+    "newMap" : {
+        "1" : {
+            "buyTimes" : 0,
+            "id" : 1,
+            "routeID" : [ 
+                1, 
+                2, 
+                3, 
+                4, 
+                5, 
+                6, 
+                7, 
+                8
+            ],
+            "sweepTimes" : 2,
+            "times" : 0
+        },
+        "101" : {
+            "buyTimes" : 0,
+            "id" : 101,
+            "routeID" : [ 
+                101, 
+                102, 
+                103, 
+                104, 
+                105, 
+                106, 
+                107, 
+                108
+            ],
+            "sweepTimes" : 1,
+            "times" : 0
+        },
+        "102" : {
+            "buyTimes" : 0,
+            "id" : 102,
+            "routeID" : [ 
+                201, 
+                202, 
+                203, 
+                204, 
+                205, 
+                206, 
+                207, 
+                208
+            ],
+            "sweepTimes" : 1,
+            "times" : 0
+        },
+        "103" : {
+            "buyTimes" : 0,
+            "id" : 103,
+            "routeID" : [ 
+                301, 
+                302, 
+                303, 
+                304, 
+                305, 
+                306, 
+                307, 
+                308
+            ],
+            "sweepTimes" : 1,
+            "times" : 0
+        },
+        "104" : {
+            "buyTimes" : 0,
+            "id" : 104,
+            "routeID" : [ 
+                401, 
+                402, 
+                403, 
+                404, 
+                405, 
+                406, 
+                407, 
+                408
+            ],
+            "sweepTimes" : 1,
+            "times" : 0
+        },
+        "105" : {
+            "buyTimes" : 0,
+            "id" : 105,
+            "routeID" : [ 
+                501, 
+                502, 
+                503, 
+                504, 
+                505, 
+                506, 
+                507, 
+                508
+            ],
+            "sweepTimes" : 1,
+            "times" : 0
+        },
+        "106" : {
+            "buyTimes" : 0,
+            "id" : 106,
+            "routeID" : [ 
+                601, 
+                602, 
+                603, 
+                604, 
+                605, 
+                606, 
+                607, 
+                608
+            ],
+            "sweepTimes" : 1,
+            "times" : 0
+        },
+        "8" : {
+            "buyTimes" : 0,
+            "id" : 8,
+            "routeID" : [ 
+                701, 
+                702, 
+                703, 
+                704, 
+                705, 
+                706, 
+                707, 
+                708
+            ],
+            "sweepTimes" : 1,
+            "times" : 0
+        }
+    },
+    "currentNewMapID" : 106,
+    "currentNewMapRouteID" : 608,
+    "intoNewMapTime" : 1,
+    "unlimitedTimeVersion" : "2714",
+    "unlimitedLastBattleTime" : "1641786847",
+    "unlimitedDeadCount" : 1,
+    "unlimitedFloor" : 99,
+    "unlimitedLastBattleTimeMS" : "1641776583059",
+    "unlimitedBuyCount" : {
+        "132" : 70,
+        "1166" : 1
+    },
+    "topUnlimitedFloor" : 111,
+    "uCoinA" : 1820,
+    "4011001severboon" : 1,
+    "4101001severboon" : 1,
+    "battleKeyCodeU" : "127092837",
+    "lastSpeedUpIdleTime" : "1636948514",
+    "todaySpeedUpIdleCount" : 4,
+    "chosePrestigeID" : 3,
+    "prestige" : {
+        "1" : {
+            "id" : 1,
+            "level" : 6,
+            "prestigeNum" : 15525
+        },
+        "2" : {
+            "id" : 2,
+            "level" : 6,
+            "prestigeNum" : 42224
+        },
+        "3" : {
+            "id" : 3,
+            "level" : 6,
+            "prestigeNum" : 72500
+        },
+        "4" : {
+            "id" : 4,
+            "level" : 6,
+            "prestigeNum" : 63799
+        },
+        "5" : {
+            "id" : 5,
+            "level" : 4,
+            "prestigeNum" : 12855
+        },
+        "6" : {
+            "id" : 6,
+            "level" : 4,
+            "prestigeNum" : 13555
+        }
+    },
+    "getPrestigeNum" : 998498,
+    "simBattleQuests" : {
+        "1001" : {
+            "id" : 1001,
+            "progress" : 1,
+            "status" : 1,
+            "updateTime" : "1641786829"
+        },
+        "1003" : {
+            "id" : 1003,
+            "progress" : 1,
+            "status" : 0,
+            "updateTime" : "1641786826"
+        },
+        "1002" : {
+            "id" : 1002,
+            "progress" : 1,
+            "status" : 1,
+            "updateTime" : "1641472128"
+        }
+    },
+    "2041001severboon" : 1,
+    "HardMap" : {
+        "1" : {
+            "id" : 1,
+            "through" : 1,
+            "times" : 0
+        },
+        "10" : {
+            "id" : 10,
+            "through" : 1,
+            "times" : 0
+        },
+        "11" : {
+            "id" : 11,
+            "through" : 1,
+            "times" : 0
+        },
+        "12" : {
+            "id" : 12,
+            "through" : 1,
+            "times" : 0
+        },
+        "13" : {
+            "id" : 13,
+            "through" : 1,
+            "times" : 0
+        },
+        "14" : {
+            "id" : 14,
+            "through" : 1,
+            "times" : 0
+        },
+        "15" : {
+            "id" : 15,
+            "through" : 1,
+            "times" : 0
+        },
+        "16" : {
+            "id" : 16,
+            "through" : 1,
+            "times" : 0
+        },
+        "17" : {
+            "id" : 17,
+            "through" : 1,
+            "times" : 0
+        },
+        "18" : {
+            "id" : 18,
+            "through" : 1,
+            "times" : 0
+        },
+        "19" : {
+            "id" : 19,
+            "through" : 1,
+            "times" : 0
+        },
+        "2" : {
+            "id" : 2,
+            "through" : 1,
+            "times" : 0
+        },
+        "20" : {
+            "id" : 20,
+            "through" : 1,
+            "times" : 0
+        },
+        "21" : {
+            "id" : 21,
+            "through" : 1,
+            "times" : 0
+        },
+        "22" : {
+            "id" : 22,
+            "through" : 0,
+            "times" : 0
+        },
+        "23" : {
+            "id" : 23,
+            "through" : 1,
+            "times" : 0
+        },
+        "24" : {
+            "id" : 24,
+            "through" : 0,
+            "times" : 0
+        },
+        "25" : {
+            "id" : 25,
+            "through" : 0,
+            "times" : 0
+        },
+        "26" : {
+            "id" : 26,
+            "through" : 0,
+            "times" : 0
+        },
+        "27" : {
+            "id" : 27,
+            "through" : 0,
+            "times" : 0
+        },
+        "28" : {
+            "id" : 28,
+            "through" : 0,
+            "times" : 0
+        },
+        "29" : {
+            "id" : 29,
+            "through" : 1,
+            "times" : 0
+        },
+        "3" : {
+            "id" : 3,
+            "through" : 1,
+            "times" : 0
+        },
+        "30" : {
+            "id" : 30,
+            "through" : 0,
+            "times" : 0
+        },
+        "31" : {
+            "id" : 31,
+            "through" : 0,
+            "times" : 0
+        },
+        "32" : {
+            "id" : 32,
+            "through" : 0,
+            "times" : 0
+        },
+        "33" : {
+            "id" : 33,
+            "through" : 1,
+            "times" : 0
+        },
+        "34" : {
+            "id" : 34,
+            "through" : 0,
+            "times" : 0
+        },
+        "35" : {
+            "id" : 35,
+            "through" : 1,
+            "times" : 0
+        },
+        "36" : {
+            "id" : 36,
+            "through" : 1,
+            "times" : 0
+        },
+        "37" : {
+            "id" : 37,
+            "through" : 1,
+            "times" : 0
+        },
+        "38" : {
+            "id" : 38,
+            "through" : 1,
+            "times" : 0
+        },
+        "39" : {
+            "id" : 39,
+            "through" : 1,
+            "times" : 0
+        },
+        "4" : {
+            "id" : 4,
+            "through" : 1,
+            "times" : 0
+        },
+        "40" : {
+            "id" : 40,
+            "through" : 1,
+            "times" : 0
+        },
+        "41" : {
+            "id" : 41,
+            "through" : 1,
+            "times" : 0
+        },
+        "42" : {
+            "id" : 42,
+            "through" : 1,
+            "times" : 0
+        },
+        "43" : {
+            "id" : 43,
+            "through" : 1,
+            "times" : 0
+        },
+        "44" : {
+            "id" : 44,
+            "through" : 1,
+            "times" : 0
+        },
+        "45" : {
+            "id" : 45,
+            "through" : 1,
+            "times" : 0
+        },
+        "46" : {
+            "id" : 46,
+            "through" : 0,
+            "times" : 0
+        },
+        "47" : {
+            "id" : 47,
+            "through" : 1,
+            "times" : 0
+        },
+        "48" : {
+            "id" : 48,
+            "through" : 1,
+            "times" : 0
+        },
+        "49" : {
+            "id" : 49,
+            "through" : 1,
+            "times" : 0
+        },
+        "5" : {
+            "id" : 5,
+            "through" : 1,
+            "times" : 0
+        },
+        "50" : {
+            "id" : 50,
+            "through" : 0,
+            "times" : 0
+        },
+        "51" : {
+            "id" : 51,
+            "through" : 0,
+            "times" : 0
+        },
+        "52" : {
+            "id" : 52,
+            "through" : 1,
+            "times" : 0
+        },
+        "53" : {
+            "id" : 53,
+            "through" : 1,
+            "times" : 0
+        },
+        "54" : {
+            "id" : 54,
+            "through" : 1,
+            "times" : 0
+        },
+        "55" : {
+            "id" : 55,
+            "through" : 1,
+            "times" : 0
+        },
+        "56" : {
+            "id" : 56,
+            "through" : 1,
+            "times" : 1
+        },
+        "57" : {
+            "id" : 57,
+            "through" : 0,
+            "times" : 0
+        },
+        "58" : {
+            "id" : 58,
+            "through" : 0,
+            "times" : 0
+        },
+        "59" : {
+            "id" : 59,
+            "through" : 1,
+            "times" : 0
+        },
+        "6" : {
+            "id" : 6,
+            "through" : 1,
+            "times" : 0
+        },
+        "60" : {
+            "id" : 60,
+            "through" : 1,
+            "times" : 0
+        },
+        "61" : {
+            "id" : 61,
+            "through" : 1,
+            "times" : 3
+        },
+        "62" : {
+            "id" : 62,
+            "through" : 0,
+            "times" : 0
+        },
+        "63" : {
+            "id" : 63,
+            "through" : 0,
+            "times" : 0
+        },
+        "64" : {
+            "id" : 64,
+            "through" : 1,
+            "times" : 3
+        },
+        "65" : {
+            "id" : 65,
+            "through" : 1,
+            "times" : 3
+        },
+        "7" : {
+            "id" : 7,
+            "through" : 1,
+            "times" : 0
+        },
+        "8" : {
+            "id" : 8,
+            "through" : 1,
+            "times" : 0
+        },
+        "9" : {
+            "id" : 9,
+            "through" : 1,
+            "times" : 0
+        }
+    },
+    "applyGuilds" : {},
+    "joinGuildTime" : "1634837853",
+    "guildID" : "16347898980",
+    "guildMissionProgress" : {},
+    "guildMissionComplete" : {},
+    "guildMissionRefreshTime" : "1641776586",
+    "gBossBattleRemainCount" : 5,
+    "gBossBattleRemainCountStartTime" : "1641812686",
+    "lastGuildSignTime" : "1641790780",
+    "severboonAward_410" : 1,
+    "severboonAward_2" : 1,
+    "passive" : {
+        "2001" : {
+            "id" : 2001,
+            "level" : 4,
+            "quality" : 2
+        },
+        "2013" : {
+            "id" : 2013,
+            "level" : 1,
+            "quality" : 3
+        },
+        "2008" : {
+            "id" : 2008,
+            "level" : 1,
+            "quality" : 4
+        },
+        "2012" : {
+            "id" : 2012,
+            "level" : 18,
+            "quality" : 3
+        },
+        "2002" : {
+            "id" : 2002,
+            "level" : 1,
+            "quality" : 2
+        },
+        "2006" : {
+            "id" : 2006,
+            "level" : 8,
+            "quality" : 4
+        },
+        "2005" : {
+            "id" : 2005,
+            "level" : 1,
+            "quality" : 2
+        },
+        "2010" : {
+            "id" : 2010,
+            "level" : 1,
+            "quality" : 4
+        },
+        "2016" : {
+            "id" : 2016,
+            "level" : 1,
+            "quality" : 3
+        },
+        "2003" : {
+            "id" : 2003,
+            "level" : 1,
+            "quality" : 2
+        },
+        "2009" : {
+            "id" : 2009,
+            "level" : 1,
+            "quality" : 4
+        },
+        "2004" : {
+            "id" : 2004,
+            "level" : 6,
+            "quality" : 2
+        },
+        "2014" : {
+            "id" : 2014,
+            "level" : 1,
+            "quality" : 3
+        }
+    },
+    "intoNewMapTimes" : 1,
+    "putOnPassive" : {
+        "1" : {
+            "id" : 2003,
+            "level" : 1,
+            "quality" : 2
+        },
+        "2" : {
+            "id" : 2012,
+            "level" : 18,
+            "quality" : 3
+        },
+        "3" : {
+            "id" : 2006,
+            "level" : 8,
+            "quality" : 4
+        }
+    },
+    "DonateTime" : "1635092202",
+    "DonateTimes" : 1,
+    "sweepNewMapTimes" : 657,
+    "2051001severboon" : 1,
+    "21001severboon" : 1,
+    "51001severboon" : 1,
+    "bossBattleTimeVersion" : "2714",
+    "bossBattleLastBattleTime" : "1641776627",
+    "bossBattleDailyCount" : 3,
+    "bossBattleAllDamage" : "48690",
+    "bossBattleLastBattleTimeMS" : "1641776584268",
+    "bossBattleBuyCount" : {
+        "1" : 128
+    },
+    "bossBattleBuffSelleds" : {},
+    "battleKeyCodeB" : "113051563",
+    "bossBattleAwardBuff" : 0,
+    "ENDBOSSBATTLELog" : 173,
+    "ENDBOSSBATTLELogSign" : "b82837cf8aca642609d11a9a1a323851519ea63215ca43b89d172b05072685c2",
+    "bossBattleTopAllDamage" : "357162",
+    "bossBattleTopDamage" : "57085",
+    "equip" : {
+        "1" : {
+            "EquipID" : 1,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 37,
+                    "monsterId" : 144
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 35,
+                    "monsterId" : 8
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 15,
+                    "monsterId" : 63
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 71,
+                    "monsterId" : 24
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "44" : {
+            "EquipID" : 44,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 62,
+                    "monsterId" : 76
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 44,
+                    "monsterId" : 77
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 16,
+                    "monsterId" : 65
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 36,
+                    "monsterId" : 133
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "40" : {
+            "EquipID" : 40,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 31,
+                    "monsterId" : 101
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 11
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 14,
+                    "monsterId" : 74
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 17,
+                    "monsterId" : 116
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "11" : {
+            "EquipID" : 11,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 78,
+                    "monsterId" : 138
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 85,
+                    "monsterId" : 141
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 119
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 21,
+                    "monsterId" : 58
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "16" : {
+            "EquipID" : 16,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 31,
+                    "monsterId" : 127
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 39,
+                    "monsterId" : 128
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 62,
+                    "monsterId" : 76
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 74,
+                    "monsterId" : 91
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "27" : {
+            "EquipID" : 27,
+            "QualityID" : 3,
+            "addCharacterHP" : 212,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 82,
+                    "monsterId" : 141
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 52,
+                    "monsterId" : 136
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 22,
+                    "monsterId" : 129
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "52" : {
+            "EquipID" : 52,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 26,
+                    "monsterId" : 178
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 28,
+                    "monsterId" : 202
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 63,
+                    "monsterId" : 139
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 82,
+                    "monsterId" : 104
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "43" : {
+            "EquipID" : 43,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 42,
+                    "monsterId" : 133
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 15,
+                    "monsterId" : 39
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 18,
+                    "monsterId" : 101
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 80,
+                    "monsterId" : 132
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "50" : {
+            "EquipID" : 50,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 64,
+                    "monsterId" : 83
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 51,
+                    "monsterId" : 8
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 71,
+                    "monsterId" : 86
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 27,
+                    "monsterId" : 81
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "74" : {
+            "EquipID" : 74,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 19,
+                    "monsterId" : 136
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 54,
+                    "monsterId" : 137
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 20,
+                    "monsterId" : 14
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 33,
+                    "monsterId" : 15
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "77" : {
+            "EquipID" : 77,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 46,
+                    "monsterId" : 67
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 31,
+                    "monsterId" : 91
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 21,
+                    "monsterId" : 93
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 22,
+                    "monsterId" : 80
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "46" : {
+            "EquipID" : 46,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 17,
+                    "monsterId" : 101
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 102
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 89,
+                    "monsterId" : 91
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 25,
+                    "monsterId" : 141
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "60" : {
+            "EquipID" : 60,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 25,
+                    "monsterId" : 106
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 17,
+                    "monsterId" : 101
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 52
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 33,
+                    "monsterId" : 127
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "64" : {
+            "EquipID" : 64,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 88,
+                    "monsterId" : 145
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 150
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 23,
+                    "monsterId" : 72
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 25,
+                    "monsterId" : 171
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "83" : {
+            "EquipID" : 83,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 28,
+                    "monsterId" : 178
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 53,
+                    "monsterId" : 180
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 25,
+                    "monsterId" : 23
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 108
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "38" : {
+            "EquipID" : 38,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 78
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 11
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 22,
+                    "monsterId" : 145
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 29,
+                    "monsterId" : 24
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "18" : {
+            "EquipID" : 18,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 4
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 46,
+                    "monsterId" : 54
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 94,
+                    "monsterId" : 138
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 3
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "33" : {
+            "EquipID" : 33,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 37,
+                    "monsterId" : 8
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 24,
+                    "monsterId" : 9
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 26,
+                    "monsterId" : 146
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 24,
+                    "monsterId" : 65
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "45" : {
+            "EquipID" : 45,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 16,
+                    "monsterId" : 19
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 30,
+                    "monsterId" : 202
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 15,
+                    "monsterId" : 68
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 14,
+                    "monsterId" : 16
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "55" : {
+            "EquipID" : 55,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 24,
+                    "monsterId" : 9
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 26,
+                    "monsterId" : 34
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 47,
+                    "monsterId" : 45
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 17,
+                    "monsterId" : 16
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "56" : {
+            "EquipID" : 56,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 31,
+                    "monsterId" : 127
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 43,
+                    "monsterId" : 128
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 62,
+                    "monsterId" : 128
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 35,
+                    "monsterId" : 66
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "65" : {
+            "EquipID" : 65,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 50,
+                    "monsterId" : 8
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 25,
+                    "monsterId" : 31
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 89
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 19,
+                    "monsterId" : 71
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "84" : {
+            "EquipID" : 84,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 150
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 17
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 43,
+                    "monsterId" : 133
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 33,
+                    "monsterId" : 169
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "86" : {
+            "EquipID" : 86,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 169
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 78
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 53,
+                    "monsterId" : 37
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 32,
+                    "monsterId" : 125
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "48" : {
+            "EquipID" : 48,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 90,
+                    "monsterId" : 48
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 47,
+                    "monsterId" : 77
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 52,
+                    "monsterId" : 127
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 48,
+                    "monsterId" : 140
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "82" : {
+            "EquipID" : 82,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 37,
+                    "monsterId" : 144
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 22,
+                    "monsterId" : 145
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 58,
+                    "monsterId" : 126
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 35,
+                    "monsterId" : 112
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "2" : {
+            "EquipID" : 2,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 18,
+                    "monsterId" : 30
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 85,
+                    "monsterId" : 104
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 33,
+                    "monsterId" : 47
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 16,
+                    "monsterId" : 69
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "17" : {
+            "EquipID" : 17,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 37,
+                    "monsterId" : 107
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 88,
+                    "monsterId" : 138
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 69,
+                    "monsterId" : 130
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 16,
+                    "monsterId" : 34
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "47" : {
+            "EquipID" : 47,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 41,
+                    "monsterId" : 144
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 22,
+                    "monsterId" : 145
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 34,
+                    "monsterId" : 15
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 94,
+                    "monsterId" : 138
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "4" : {
+            "EquipID" : 4,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 23,
+                    "monsterId" : 61
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 62,
+                    "monsterId" : 10
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 13,
+                    "monsterId" : 169
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 45,
+                    "monsterId" : 47
+                }
+            ],
+            "equipLevel" : 6
+        }
+    },
+    "buildTime" : 3237,
+    "forgeHouseLevel" : 6,
+    "wearEquip" : {
+        "27" : {
+            "EquipID" : 27,
+            "QualityID" : 3,
+            "addCharacterHP" : 212,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 82,
+                    "monsterId" : 141
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 52,
+                    "monsterId" : 136
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 22,
+                    "monsterId" : 129
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "1" : {
+            "EquipID" : 1,
+            "QualityID" : 4,
+            "addCharacterHP" : 232,
+            "equipAttr" : [ 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 37,
+                    "monsterId" : 144
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 35,
+                    "monsterId" : 8
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 15,
+                    "monsterId" : 63
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 71,
+                    "monsterId" : 24
+                }
+            ],
+            "equipLevel" : 6
+        },
+        "33" : {
+            "EquipID" : 33,
+            "QualityID" : 4,
+            "addCharacterHP" : 231,
+            "equipAttr" : [ 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 37,
+                    "monsterId" : 8
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 24,
+                    "monsterId" : 9
+                }, 
+                {
+                    "attType" : 2,
+                    "attributeAddNum" : 26,
+                    "monsterId" : 146
+                }, 
+                {
+                    "attType" : 1,
+                    "attributeAddNum" : 24,
+                    "monsterId" : 65
+                }
+            ],
+            "equipLevel" : 6
+        }
+    },
+    "severboonAward_207" : 1,
+    "severboonAward_101" : 1,
+    "forgeHouseExp" : 24250,
+    "houseExp" : 54401,
+    "4021001severboon" : 1,
+    "4111001severboon" : 1,
+    "severboonAward_403" : 1,
+    "severboonAward_404" : 1,
+    "severboonAward_405" : 1,
+    "severboonAward_305" : 1,
+    "severboonAward_303" : 1,
+    "guildMarketBuyCounts" : {
+        "1001" : 1,
+        "1002" : 1,
+        "1003" : 1,
+        "1004" : 1
+    },
+    "guildMarketRefreshTime" : "1639814761",
+    "defences" : {
+        "16349228036" : {
+            "createRowID" : 5,
+            "defenceID" : 1,
+            "isLock" : 0,
+            "level" : 2,
+            "objID" : "16349228036",
+            "randomSkillID" : 2,
+            "skills" : [ 
+                {
+                    "level" : 1,
+                    "skillID" : 174001
+                }
+            ],
+            "star" : 1
+        },
+        "16364082877" : {
+            "createRowID" : 4,
+            "defenceID" : 3,
+            "isLock" : 0,
+            "level" : 2,
+            "objID" : "16364082877",
+            "randomSkillID" : 2,
+            "skills" : [ 
+                {
+                    "level" : 1,
+                    "skillID" : 112001
+                }
+            ],
+            "star" : 2
+        },
+        "16398146308" : {
+            "createRowID" : 5,
+            "defenceID" : 1,
+            "isLock" : 0,
+            "level" : 2,
+            "objID" : "16398146308",
+            "randomSkillID" : 7,
+            "skills" : [ 
+                {
+                    "level" : 2,
+                    "skillID" : 201001
+                }
+            ],
+            "star" : 1
+        }
+    },
+    "buildExp" : 40,
+    "2061001severboon" : 1,
+    "severboonAward_208" : 1,
+    "severboonAward_5" : 1,
+    "buyPassDate" : "1634940000",
+    "severboonAward_304" : 1,
+    "severboonAward_406" : 1,
+    "activeDefences1" : [ 
+        "16398146308", 
+        "16364082877", 
+        "16349228036"
+    ],
+    "friendCount" : 11,
+    "3011001severboon" : 1,
+    "3051001severboon" : 1,
+    "severboonAward_407" : 1,
+    "URList" : [],
+    "4031001severboon" : 1,
+    "4121001severboon" : 1,
+    "2071001severboon" : 1,
+    "severboonAward_209" : 1,
+    "severboonAward_408" : 1,
+    "severboonAward_409" : 1,
+    "severboonAward_411" : 1,
+    "severboonAward_501" : 1,
+    "severboonAward_3" : 1,
+    "uCoinB" : 0,
+    "pvpBattleAward" : {},
+    "3021001severboon" : 1,
+    "3061001severboon" : 1,
+    "4041001severboon" : 1,
+    "4131001severboon" : 1,
+    "2081001severboon" : 1,
+    "severboonAward_306" : 1,
+    "severboonAward_412" : 1,
+    "severboonAward_414" : 1,
+    "severboonAward_6" : 1,
+    "31001severboon" : 1,
+    "61001severboon" : 1,
+    "activityShopData" : {
+        "3001" : {
+            "id" : 3001,
+            "shopData" : [ 
+                {
+                    "id" : 2,
+                    "num" : 1
+                }, 
+                {
+                    "id" : 1,
+                    "num" : 1
+                }
+            ],
+            "time" : "2021-12-17_0_604800"
+        },
+        "3002" : {}
+    },
+    "2091001severboon" : 1,
+    "m_card" : 3200,
+    "1011001severboon" : 1,
+    "1061001severboon" : 1,
+    "severboonAward_210" : 1,
+    "severboonAward_413" : 1,
+    "currentDailyStageRouteOfDiffID" : 106,
+    "4051001severboon" : 1,
+    "4141001severboon" : 1,
+    "clientData" : {
+        "channelId" : -3,
+        "device" : "HUAWEI#NOH-AL10",
+        "ip" : "2409:8928:783c:916:edde:57d1:67b3:dba5",
+        "mac" : "58:02:03:04:05:06",
+        "os" : "10",
+        "platformId" : -3,
+        "udid" : "435a1296-6146-492b-8843-c13afc8e1496"
+    },
+    "activateCodeAll" : {
+        "24" : 1,
+        "21" : 1,
+        "19" : 1,
+        "20" : 1,
+        "22" : 1,
+        "23" : 1,
+        "17" : 1,
+        "25" : 1,
+        "29" : 1
+    },
+    "severboonAward_502" : 1,
+    "1635330609_1" : "",
+    "ndAwardIDs" : {
+        "list" : []
+    },
+    "ndCoin" : 2,
+    "ndDate" : "1640901600",
+    "ndLevel" : 4,
+    "severboonAward_307" : 1,
+    "severboonAward_503" : 1,
+    "2101001severboon" : 1,
+    "scriptUpdateTime" : "1641445632",
+    "4061001severboon" : 1,
+    "4071001severboon" : 1,
+    "3031001severboon" : 1,
+    "3071001severboon" : 1,
+    "severboonAward_102" : 1,
+    "dicedNumbers" : {
+        "1" : 1,
+        "10" : 10,
+        "12" : 12,
+        "13" : 13,
+        "15" : 15,
+        "18" : 18,
+        "20" : 20,
+        "22" : 22,
+        "23" : 23,
+        "25" : 25,
+        "26" : 26,
+        "27" : 27,
+        "29" : 29,
+        "3" : 3,
+        "31" : 31,
+        "33" : 33,
+        "34" : 34,
+        "4" : 4,
+        "5" : 5,
+        "6" : 6,
+        "9" : 9
+    },
+    "catchedLineAwardIDs" : {
+        "list" : [ 
+            13
+        ]
+    },
+    "catchedLineNumAwardIDs" : {
+        "list" : [ 
+            1
+        ]
+    },
+    "dice" : 0,
+    "diceDate" : "1641506400",
+    "rcDice" : 8,
+    "4081001severboon" : 1,
+    "5011001severboon" : 1,
+    "5081001severboon" : 1,
+    "severboonAward_106" : 1,
+    "severboonAward_504" : 1,
+    "gBossAwards" : {
+        "1637855999" : {
+            "65" : 65
+        }
+    },
+    "GBossBattleCount" : 0,
+    "guildBossVersion" : "",
+    "guildIDInBoss" : "16347898980",
+    "lastVomActivityTime" : "1639692001_0_604800",
+    "vomTimes" : 7,
+    "giveFriendCardNum" : 1,
+    "lastGiveFriendCardTime" : "1641719305",
+    "4091001severboon" : 1,
+    "severboonAward_508" : 1,
+    "severboonAward_505" : 1,
+    "5021001severboon" : 1,
+    "5091001severboon" : 1,
+    "severboonAward_509" : 1,
+    "battleKeyCodeGB" : "107421975",
+    "GBossID" : 65,
+    "EENDGUILDBOSSBATTLELogSign" : "9c3acf6f9d446e9a0d7ed7566fbb4e73bae2378d6391074b34689d764665d9a2",
+    "ENDGUILDBOSSBATTLELog" : 5,
+    "severboonAward_506" : 1,
+    "actBossBattleLastBattleTime" : "1639045279",
+    "actBossBattleLastBattleTimeMS" : "1638713663383",
+    "actBossDailyCount" : 20,
+    "actBossDailyBuyCount" : 0,
+    "actBossTopDamage" : "13346",
+    "actBossBattleBuyCount" : {
+        "6" : 24,
+        "10" : 2415
+    },
+    "battleKeyCodeAB" : "120706139",
+    "ENDACTBOSSBATTLELog" : 52,
+    "ENDACTBOSSBATTLELogSign" : "bd457e2de8082088d4b593e025871e9e3e8c53c1ee55dc279620a244c7e95aa0",
+    "severboonAward_103" : 1,
+    "severboonAward_507" : 1,
+    "severboonAward_510" : 1,
+    "severboonAward_511" : 1,
+    "5031001severboon" : 1,
+    "5101001severboon" : 1,
+    "GPVPBattleCount" : 0,
+    "guildIDInPvp" : "16347898980",
+    "guildPvpVersion" : "",
+    "gPvpEnemyID" : 0,
+    "gPvpPreUsePetIDs" : [ 
+        8, 
+        101, 
+        127, 
+        136, 
+        178, 
+        144, 
+        148, 
+        146
+    ],
+    "battleKeyCodeGP" : "187586148",
+    "ENDGUILDPVPBATTLELog" : 11,
+    "ENDGUILDPVPBATTLELogSign" : "2863329fcdc871cc64d7dd5ce3b2c4f7bcc727e58a4b4ebdd59a846407cf1fb4",
+    "1021001severboon" : 1,
+    "1071001severboon" : 1,
+    "3041001severboon" : 1,
+    "gPvpDoublePoint" : 0,
+    "5041001severboon" : 1,
+    "5111001severboon" : 1,
+    "severboonAward_104" : 1,
+    "pvpBattleMissionProgress" : {
+        "1" : 3,
+        "2" : 5,
+        "3" : 10,
+        "4" : 15,
+        "5" : 1,
+        "6" : 3,
+        "7" : 5
+    },
+    "pvpBattleCompleteMission" : {
+        "7" : 7,
+        "6" : 6,
+        "5" : 5,
+        "3" : 3,
+        "2" : 2,
+        "1" : 1,
+        "4" : 4
+    }
+}
