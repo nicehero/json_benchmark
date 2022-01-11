@@ -53,7 +53,7 @@ for i in range(repeatCount):
 dt = time.time() - s
 print("python insert&erase times:" + str(repeatCount) + " cost:" + str(dt) + " qps:"+str(int(repeatCount/dt)))
 
-repeatCount = 10000
+repeatCount = 100000
 mm = {}
 miss = 10
 missValue = 0
