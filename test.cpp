@@ -7,7 +7,12 @@
 #include <stdio.h>
 #include <fstream>  
 #include <set>
-
+#undef max
+#undef min
+#include "rapidjson/document.h"
+#include "rapidjson/writer.h"
+#include "rapidjson/stringbuffer.h"
+#include "rapidjson/pointer.h"
 #ifdef WIN32
 double MyGetTickCount()
 {
@@ -63,18 +68,64 @@ std::string EncodeBase58(const unsigned char* pbegin, const unsigned char* pend)
 		str += pszBase58[*(it++)];
 	return str;
 }
+template <class T>
+std::string writeRapid(T& t) {
+	using namespace std;
+	using namespace rapidjson;
+	StringBuffer  buffer;
+	Writer<StringBuffer> writer(buffer);
+	t.Accept(writer);
+	return buffer.GetString();
+}
+template <class T,class U,class V>
+void addMember(T& t,U& u,const char* s,V v) {
+	using namespace std;
+	using namespace rapidjson;
+	string str = s;
+	Value vv(str.c_str(), u.GetAllocator());
+	t.AddMember(vv, v, u.GetAllocator());
+}
+void rapidTest() {
+	using namespace std;
+	using namespace rapidjson;
+	Document j4;
+	string jdata4 = R"(
+{
+"x":"y"
+,"o":{"p":"xxx"}
+}
+)";
+	j4.Parse(jdata4.c_str());
+	jdata4.clear();
 
+	auto j4c = writeRapid(j4);
+	Value j5 = j4.GetObject();
+	auto j4cc = writeRapid(j4);
+	addMember(j5, j4,"abc",4);
+	Value jx(j5, j4.GetAllocator());
+	string abc = "abc";
+	jx[abc.c_str()] = 66;
+	jx["o"]["p"].SetString(abc.c_str(), j4.GetAllocator());
+	abc.clear();
+	string j5c = writeRapid(j5);
+	string jxc = writeRapid(jx);
+	j5c = writeRapid(j5);
+}
 
 using namespace std;
 using namespace jsoncons;
+using namespace rapidjson;
 using xjson = json;
 int main(){
-
+	rapidTest();
 	ifstream t("data.txt");
 	stringstream ss;
 	ss << t.rdbuf();
 	string contents(ss.str());
 	const char* jdata = contents.c_str();
+	Document j3d;
+	j3d.Parse(jdata);
+	Value j3 = j3d.GetObject();
 	nlohmann::json j2 = nlohmann::json::parse(jdata);
 	xjson j = xjson::parse(jdata);
 	auto dd1 = j.to_string();
@@ -166,6 +217,19 @@ int main(){
 		dt = e - s;
 		cout << fixed << "jsoncons insert times:" << keyNum << "x" << repeatCount << " cost:" << dt
 			<< " qps:" << uint64_t(double(keyNum * repeatCount) / dt) << endl;
+
+		s = MyGetTickCount();
+		for (int i = 0; i < repeatCount; ++i) {
+			Value jj(kObjectType);
+			for (size_t j = 0; j < ks.size(); ++j) {
+				Value m(ks[j].c_str(), SizeType(ks[j].size()),j3d.GetAllocator());
+ 				jj.AddMember(m, i + j, j3d.GetAllocator());
+			}
+		}
+		e = MyGetTickCount();
+		dt = e - s;
+		cout << fixed << "rapidjson insert times:" << keyNum << "x" << repeatCount << " cost:" << dt
+			<< " qps:" << uint64_t(double(keyNum * repeatCount) / dt) << endl;
 	}
 
 	{
@@ -190,15 +254,29 @@ int main(){
 		dt = e - s;
 		cout << fixed << "jsoncons insert&erase times:" << repeatCount << " cost:" << dt
 			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
+
+		s = MyGetTickCount();
+		for (int i = 0; i < repeatCount; ++i) {
+			auto& str = ks[i % ks.size()];
+			addMember(j3, j3d, str.c_str(), 100);
+			j3.RemoveMember(str.c_str());
+		}
+		e = MyGetTickCount();
+		dt = e - s;
+		cout << fixed << "rapidjson insert&erase times:" << repeatCount << " cost:" << dt
+			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
 	}
 	{
 		nlohmann::json j2c = j2;
 		xjson jc = j;
-		for (auto s: ks) {
+		Value j3c(j3, j3d.GetAllocator());
+		for (auto& s: ks) {
 			j2c[s] = 0;
 			jc[s] = 0;
+			addMember(j3c, j3d, s.c_str(), 0);
 		}
 		int miss = 10;
+
 		s = MyGetTickCount();
 		for (int i = 0; i < repeatCount; ++i) {
 			auto& str = ks[i % ks.size()];
@@ -229,6 +307,23 @@ int main(){
 		dt = e - s;
 		cout << fixed << "jsoncons find&replace times:" << repeatCount << " cost:" << dt
 			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
+
+		s = MyGetTickCount();
+		for (int i = 0; i < repeatCount; ++i) {
+			auto& str = ks[i % ks.size()];
+			if (i % 100 < miss) {
+				j3c.FindMember("miss_key");
+			}
+			else {
+				GenericValue < UTF8<char> > gv(str.c_str(), SizeType(str.size()));
+				j3c[str.c_str()] = int64_t(i + 200);
+			}
+		}
+		e = MyGetTickCount();
+		dt = e - s;
+		cout << fixed << "rapidjson find&replace times:" << repeatCount << " cost:" << dt
+			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
+
 	}
 
 	{
@@ -248,6 +343,15 @@ int main(){
 		e = MyGetTickCount();
 		dt = e - s;
 		cout << fixed << "jsoncons copy times:" << repeatCount << " cost:" << dt
+			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
+
+		s = MyGetTickCount();
+		for (int i = 0; i < repeatCount; ++i) {
+			Value j3cc(j3,j3d.GetAllocator());
+		}
+		e = MyGetTickCount();
+		dt = e - s;
+		cout << fixed << "rapidjson copy times:" << repeatCount << " cost:" << dt
 			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
 	}
 
@@ -269,6 +373,16 @@ int main(){
 		dt = e - s;
 		cout << fixed << "jsoncons parse times:" << repeatCount << " cost:" << dt
 			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
+
+		s = MyGetTickCount();
+		for (int i = 0; i < repeatCount; ++i) {
+			Document j2p;
+			j2p.Parse(jdata);
+		}
+		e = MyGetTickCount();
+		dt = e - s;
+		cout << fixed << "rapidjson parse times:" << repeatCount << " cost:" << dt
+			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
 	}
 
 	{
@@ -288,6 +402,18 @@ int main(){
 		e = MyGetTickCount();
 		dt = e - s;
 		cout << fixed << "jsoncons dump times:" << repeatCount << " cost:" << dt
+			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
+
+		s = MyGetTickCount();
+		for (int i = 0; i < repeatCount; ++i) {
+			StringBuffer  buffer;
+			Writer<StringBuffer> writer(buffer);
+			j3.Accept(writer);
+			buffer.GetString();
+		}
+		e = MyGetTickCount();
+		dt = e - s;
+		cout << fixed << "rapidjson dump times:" << repeatCount << " cost:" << dt
 			<< " qps:" << uint64_t(double(repeatCount) / dt) << endl;
 	}
 

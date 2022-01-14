@@ -35,8 +35,16 @@ opts = [
 	("dump","(70k bson)"),
 ]
 
-tools = ["nlohmann","jsoncons","python"]
+tools = ["nlohmann","jsoncons","python","rapidjson"]
+toolcolors = {
+"nlohmann":"tab:blue",
+"jsoncons":"tab:green",
+"python":"tab:orange",
+"rapidjson":"tab:red"
+}
 i = 1
+plt.subplots_adjust(left=0.05,bottom=0.1,top=0.9,right=0.95,hspace=0.2,wspace=0.4)
+
 for opt,lit in opts:
 	ax = plt.subplot(2,4,i)
 	plt.title(opt + lit)
@@ -53,7 +61,8 @@ for opt,lit in opts:
 				isW = True
 				plt.ylabel("QPS(k)")
 			maxQPS = qps if qps > maxQPS else maxQPS
-			plt.bar(tool, qps)
+			plt.bar(tool, qps,color=toolcolors[tool])
+			#plt.bar(tool, qps)
 	ys = np.linspace(0, maxQPS, num=10)
 	if isW:
 		plt.yticks(ys,list(map(lambda x: str(int(x)) + "k", ys)))
